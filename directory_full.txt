@@ -1,0 +1,21 @@
+.
+├── .env
+├── directory.txt
+├── interface
+│   └── telegram
+│       └── handlers
+│           └── bot.py
+├── processors
+│   └── templates
+│       ├── blackout_test.py
+│       ├── final_overlay_pipeline_test.py
+│       └── text_overlay_test.py
+└── data
+    ├── input
+    │   └── images
+    │       └── 450ae805-c95f-442b-a62f-50211229895e
+    │           └── ocr.json
+    └── templates
+        └── broker_001
+            └── template.json
+
