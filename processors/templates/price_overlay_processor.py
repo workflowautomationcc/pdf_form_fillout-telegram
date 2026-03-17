@@ -6,7 +6,6 @@ BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
 TEMPLATE_PATH = os.path.join(BASE_DIR, "data/templates/broker_001/template.json")
 FONT_PATH = os.path.join(BASE_DIR, "data/fonts/arial.ttf")
 
-TEST_VALUE = "4,200.00"
 Y_OFFSET_RATIO = -0.15
 
 
@@ -27,7 +26,7 @@ def fit_font_to_box(draw, text, font_path, target_w, target_h, max_size=300):
     return best_font
 
 
-def main(png_job_folder):
+def main(png_job_folder, new_value):
     with open(TEMPLATE_PATH, "r") as f:
         template = json.load(f)
 
@@ -48,9 +47,9 @@ def main(png_job_folder):
 
         draw.rectangle([x, y, x + bw, y + bh], fill="white")
 
-        font = fit_font_to_box(draw, TEST_VALUE, FONT_PATH, bw, bh)
+        font = fit_font_to_box(draw, new_value, FONT_PATH, bw, bh)
 
-        bbox = draw.textbbox((0, 0), TEST_VALUE, font=font)
+        bbox = draw.textbbox((0, 0), new_value, font=font)
         text_w = bbox[2] - bbox[0]
         text_h = bbox[3] - bbox[1]
 
@@ -58,6 +57,6 @@ def main(png_job_folder):
         offset = bh * Y_OFFSET_RATIO
         text_y = y + (bh - text_h) / 2 + offset
 
-        draw.text((text_x, text_y), TEST_VALUE, fill="#333333", font=font)
+        draw.text((text_x, text_y), new_value, fill="#333333", font=font)
 
     image.save(img_path)
