@@ -1,21 +1,35 @@
 .
 ├── .env
-├── directory.txt
+├── directory_full.txt
+├── data
+│   ├── input
+│   │   ├── images
+│   │   │   └── 450ae805-c95f-442b-a62f-50211229895e
+│   │   │       └── ocr.json
+│   │   └── pdf
+│   └── templates
+│       ├── ATS_001
+│       │   └── template.json
+│       └── broker_001
+│           └── template.json
 ├── interface
 │   └── telegram
 │       └── handlers
 │           └── bot.py
-├── processors
-│   └── templates
-│       ├── blackout_test.py
-│       ├── final_overlay_pipeline_test.py
-│       └── text_overlay_test.py
-└── data
-    ├── input
-    │   └── images
-    │       └── 450ae805-c95f-442b-a62f-50211229895e
-    │           └── ocr.json
+└── processors
+    ├── pdf
+    │   ├── pdf_combiner.py
+    │   └── pdf_splitter.py
     └── templates
-        └── broker_001
-            └── template.json
+        ├── blackout_test.py
+        ├── final_overlay_pipeline_test.py
+        ├── price_overlay_processor.py
+        ├── template_matcher.py
+        ├── text_overlay_test.py
+        └── matching_test
+            ├── input
+            │   └── ocr.json
+            ├── test_match.py
+            ├── test_multi_word.py
+            └── test_single_word.py
 

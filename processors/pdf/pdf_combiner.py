@@ -1,15 +1,11 @@
 import os
 from PIL import Image
 
-BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), "../../"))
-
-OUTPUT_PDF_PATH = os.path.join(BASE_DIR, "data/output/final_output.pdf")
-
 
 def main(png_job_folder):
     pages = []
 
-    # page 1 (updated)
+    # page 1
     page1_path = os.path.join(png_job_folder, "page_1.png")
     pages.append(page1_path)
 
@@ -27,10 +23,10 @@ def main(png_job_folder):
     first = images[0]
     rest = images[1:]
 
-    os.makedirs(os.path.dirname(OUTPUT_PDF_PATH), exist_ok=True)
+    output_path = os.path.join(png_job_folder, "final.pdf")
 
     first.save(
-        OUTPUT_PDF_PATH,
+        output_path,
         save_all=True,
         append_images=rest
     )
