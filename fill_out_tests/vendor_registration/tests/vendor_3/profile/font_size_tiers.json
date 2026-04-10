@@ -1,0 +1,47 @@
+[
+  {
+    "height_px": 6,
+    "count": 1,
+    "pct": 0.6
+  },
+  {
+    "height_px": 23,
+    "count": 3,
+    "pct": 1.8
+  },
+  {
+    "height_px": 26,
+    "count": 15,
+    "pct": 8.9
+  },
+  {
+    "height_px": 29,
+    "count": 61,
+    "pct": 36.1
+  },
+  {
+    "height_px": 32,
+    "count": 31,
+    "pct": 18.3
+  },
+  {
+    "height_px": 35,
+    "count": 13,
+    "pct": 7.7
+  },
+  {
+    "height_px": 38,
+    "count": 31,
+    "pct": 18.3
+  },
+  {
+    "height_px": 41,
+    "count": 10,
+    "pct": 5.9
+  },
+  {
+    "height_px": 51,
+    "count": 4,
+    "pct": 2.4
+  }
+]

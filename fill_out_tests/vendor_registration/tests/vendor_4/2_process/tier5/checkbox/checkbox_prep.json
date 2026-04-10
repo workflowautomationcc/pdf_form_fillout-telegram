@@ -1,0 +1,17 @@
+{
+  "page": "page_1",
+  "image_size": {
+    "w": 2550,
+    "h": 3608
+  },
+  "threshold": 210,
+  "text_pad_px": 2,
+  "upscale_factor": 4,
+  "removed_word_count": 257,
+  "outputs": {
+    "gray": "3_output/tier5/checkbox/checkbox_gray.png",
+    "thresh": "3_output/tier5/checkbox/checkbox_thresh.png",
+    "text_removed": "3_output/tier5/checkbox/checkbox_text_removed.png",
+    "text_removed_4x": "3_output/tier5/checkbox/checkbox_text_removed_4x.png"
+  }
+}

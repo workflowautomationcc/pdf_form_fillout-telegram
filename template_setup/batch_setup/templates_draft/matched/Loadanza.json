@@ -1,0 +1,19 @@
+{
+  "template": "Loadanza",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "Loadanza",
+      "x": 180.0,
+      "y": 175.0,
+      "w": 108.0,
+      "h": 18.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Loadanza"
+  }
+}

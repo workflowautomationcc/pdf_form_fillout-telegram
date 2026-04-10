@@ -1,0 +1,38 @@
+{
+  "page": "page_1",
+  "image_size": {
+    "w": 2550,
+    "h": 3608
+  },
+  "safe_header_box": {
+    "top": 0.04739467849223947,
+    "left": 0.17215686274509803,
+    "bottom": 0.10116407982261641,
+    "right": 0.7815686274509804
+  },
+  "header_count": 2,
+  "discarded_count": 0,
+  "headers": [
+    {
+      "text": "GOALPrime Organization Nigeria GPON",
+      "left": 0.17215686274509803,
+      "top": 0.04739467849223947,
+      "width": 0.6094117647058824,
+      "height": 0.01635254988913526,
+      "height_px": 59.0,
+      "font_group": "giant",
+      "reason": "giant"
+    },
+    {
+      "text": "VENDOR REGISTRATION FORM",
+      "left": 0.2647058823529412,
+      "top": 0.08924611973392461,
+      "width": 0.3576470588235294,
+      "height": 0.011917960088691795,
+      "height_px": 43.0,
+      "font_group": "large",
+      "reason": "large_topmost"
+    }
+  ],
+  "discarded": []
+}

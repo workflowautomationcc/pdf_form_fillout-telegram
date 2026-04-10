@@ -1,0 +1,19 @@
+{
+  "template": "Real matter",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "Real Matter",
+      "x": 203.0,
+      "y": 120.0,
+      "w": 319.0,
+      "h": 61.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Real Matter"
+  }
+}

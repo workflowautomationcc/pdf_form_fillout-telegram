@@ -1,0 +1,514 @@
+{
+  "page": "page_1",
+  "image_size": {
+    "w": 2550,
+    "h": 3608
+  },
+  "space_count": 63,
+  "spaces": [
+    {
+      "phrase": "GOALPrime Organization Nigeria GPON",
+      "left": 0.781569,
+      "top": 0.047395,
+      "width": 0.158823,
+      "height": 0.016353,
+      "font_group": "giant"
+    },
+    {
+      "phrase": "Organisation Niger's",
+      "left": 0.148235,
+      "top": 0.06929,
+      "width": 0.043922,
+      "height": 0.009701,
+      "font_group": "tiny"
+    },
+    {
+      "phrase": "VENDOR REGISTRATION FORM",
+      "left": 0.622353,
+      "top": 0.089246,
+      "width": 0.139216,
+      "height": 0.011918,
+      "font_group": "large"
+    },
+    {
+      "phrase": "EDALPrime making fine butir in",
+      "left": 0.131765,
+      "top": 0.10837,
+      "width": 0.808627,
+      "height": 0.00194,
+      "font_group": "tiny"
+    },
+    {
+      "phrase": "Section nations Company Details and General Information",
+      "left": 0.480392,
+      "top": 0.147173,
+      "width": 0.46,
+      "height": 0.008592,
+      "font_group": "main"
+    },
+    {
+      "phrase": "1. 1 name full legal name",
+      "left": 0.266667,
+      "top": 0.171563,
+      "width": 0.673725,
+      "height": 0.008315,
+      "font_group": "main"
+    },
+    {
+      "phrase": "2.",
+      "left": 0.072941,
+      "top": 0.204545,
+      "width": 0.005882,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Company Address",
+      "left": 0.165882,
+      "top": 0.204823,
+      "width": 0.330196,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "3. P.O. Box and Mailing Address",
+      "left": 0.708627,
+      "top": 0.204545,
+      "width": 0.231765,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Street Code",
+      "left": 0.133725,
+      "top": 0.237528,
+      "width": 0.130196,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "City",
+      "left": 0.284706,
+      "top": 0.237528,
+      "width": 0.211372,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Postal",
+      "left": 0.107843,
+      "top": 0.259701,
+      "width": 0.388235,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "4. Country",
+      "left": 0.095294,
+      "top": 0.281319,
+      "width": 0.420392,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "5. Fax",
+      "left": 0.551373,
+      "top": 0.281596,
+      "width": 0.389019,
+      "height": 0.006098,
+      "font_group": "main"
+    },
+    {
+      "phrase": "6. Tel",
+      "left": 0.110196,
+      "top": 0.303215,
+      "width": 0.40549,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "7. Company Website",
+      "left": 0.639216,
+      "top": 0.303215,
+      "width": 0.301176,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "8. Email Name and Job Title",
+      "left": 0.252157,
+      "top": 0.324002,
+      "width": 0.688235,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "9. Contact",
+      "left": 0.118431,
+      "top": 0.346175,
+      "width": 0.821961,
+      "height": 0.006375,
+      "font_group": "main"
+    },
+    {
+      "phrase": "10. Email Company Full legal officially registered company name",
+      "left": 0.464314,
+      "top": 0.367794,
+      "width": 0.476078,
+      "height": 0.008315,
+      "font_group": "main"
+    },
+    {
+      "phrase": "11. Parent of owner s and principals",
+      "left": 0.285098,
+      "top": 0.400222,
+      "width": 0.016863,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Names attach a List if necessary",
+      "left": 0.278039,
+      "top": 0.411308,
+      "width": 0.662353,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "applicable International Offices Representation Countries where the Company has local Offices Representation",
+      "left": 0.685882,
+      "top": 0.44429,
+      "width": 0.25451,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "12. 13. Type Business Mark one only",
+      "left": 0.28,
+      "top": 0.486419,
+      "width": 0.660392,
+      "height": 0.008592,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Other specify",
+      "left": 0.491373,
+      "top": 0.508315,
+      "width": 0.449019,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "of Limited",
+      "left": 0.195686,
+      "top": 0.508869,
+      "width": 0.008236,
+      "height": 0.006375,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Partnership",
+      "left": 0.344314,
+      "top": 0.508592,
+      "width": 0.023137,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "14. Corporate",
+      "left": 0.123529,
+      "top": 0.532428,
+      "width": 0.005098,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Nature Business",
+      "left": 0.196471,
+      "top": 0.532428,
+      "width": 0.743921,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Other specify",
+      "left": 0.775294,
+      "top": 0.554324,
+      "width": 0.165098,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Authorised Agent",
+      "left": 0.330588,
+      "top": 0.555155,
+      "width": 0.004706,
+      "height": 0.007483,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Trader",
+      "left": 0.433725,
+      "top": 0.554601,
+      "width": 0.010589,
+      "height": 0.006375,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Consulting Company",
+      "left": 0.611373,
+      "top": 0.554601,
+      "width": 0.014509,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "of",
+      "left": 0.163922,
+      "top": 0.555987,
+      "width": 0.014117,
+      "height": 0.005266,
+      "font_group": "main"
+    },
+    {
+      "phrase": "15. Manufacturer Established1",
+      "left": 0.190588,
+      "top": 0.587306,
+      "width": 0.32549,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "16. Number of Full time Employees",
+      "left": 0.721961,
+      "top": 0.587306,
+      "width": 0.218431,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "17. Year no./State where registered and validity date",
+      "left": 0.392549,
+      "top": 0.629989,
+      "width": 0.123137,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "18. VAT No./Taxl.D",
+      "left": 0.631373,
+      "top": 0.630266,
+      "width": 0.309019,
+      "height": 0.006375,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Licence 2 Banking Information",
+      "left": 0.308235,
+      "top": 0.674612,
+      "width": 0.020392,
+      "height": 0.008592,
+      "font_group": "main"
+    },
+    {
+      "phrase": "OPTIONAL",
+      "left": 0.404706,
+      "top": 0.675166,
+      "width": 0.018824,
+      "height": 0.007761,
+      "font_group": "main"
+    },
+    {
+      "phrase": "to be provided only if payment from GPON is expected",
+      "left": 0.815294,
+      "top": 0.675166,
+      "width": 0.125098,
+      "height": 0.008038,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Section Bank Name and Bank ID if any",
+      "left": 0.310588,
+      "top": 0.711197,
+      "width": 0.236078,
+      "height": 0.008038,
+      "font_group": "main"
+    },
+    {
+      "phrase": "20",
+      "left": 0.560392,
+      "top": 0.711475,
+      "width": 0.047451,
+      "height": 0.006098,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Branch Name and Branch Code if any",
+      "left": 0.836471,
+      "top": 0.711197,
+      "width": 0.103921,
+      "height": 0.008038,
+      "font_group": "main"
+    },
+    {
+      "phrase": "22",
+      "left": 0.560392,
+      "top": 0.73337,
+      "width": 0.046667,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "19.",
+      "left": 0.109804,
+      "top": 0.733647,
+      "width": 0.014118,
+      "height": 0.006375,
+      "font_group": "main"
+    },
+    {
+      "phrase": "21. Branch",
+      "left": 0.217647,
+      "top": 0.733647,
+      "width": 0.32902,
+      "height": 0.006375,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Tel number",
+      "left": 0.678039,
+      "top": 0.733647,
+      "width": 0.262353,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "23",
+      "left": 0.560392,
+      "top": 0.754989,
+      "width": 0.047451,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Fax number",
+      "left": 0.678039,
+      "top": 0.755266,
+      "width": 0.262353,
+      "height": 0.006375,
+      "font_group": "main"
+    },
+    {
+      "phrase": "24.",
+      "left": 0.109804,
+      "top": 0.787971,
+      "width": 0.014118,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Bank Address Number",
+      "left": 0.256863,
+      "top": 0.787971,
+      "width": 0.289804,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "25",
+      "left": 0.56,
+      "top": 0.788248,
+      "width": 0.047059,
+      "height": 0.006375,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Account Name\u00b2",
+      "left": 0.699216,
+      "top": 0.787971,
+      "width": 0.241176,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "26. Account Account",
+      "left": 0.231373,
+      "top": 0.809867,
+      "width": 0.709019,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "1",
+      "left": 0.065098,
+      "top": 0.891907,
+      "width": 0.006667,
+      "height": 0.004712,
+      "font_group": "main"
+    },
+    {
+      "phrase": "3 years of operation is a currency\u00b3",
+      "left": 0.221569,
+      "top": 0.895787,
+      "width": 0.718823,
+      "height": 0.005266,
+      "font_group": "main"
+    },
+    {
+      "phrase": "2",
+      "left": 0.065882,
+      "top": 0.906042,
+      "width": 0.004314,
+      "height": 0.004435,
+      "font_group": "other"
+    },
+    {
+      "phrase": "The Account name is the minimum Name the Bank uses for the Company It should be the same as the Company Name as stated in section 1 above",
+      "left": 0.687059,
+      "top": 0.909922,
+      "width": 0.253333,
+      "height": 0.004989,
+      "font_group": "main"
+    },
+    {
+      "phrase": "that Plot Ambassador Yusufari street off NUJ house new GRA Bama road Maiduguri Borno State",
+      "left": 0.803529,
+      "top": 0.922672,
+      "width": 0.136863,
+      "height": 0.007206,
+      "font_group": "main"
+    },
+    {
+      "phrase": "Phone number +2349094901227",
+      "left": 0.571765,
+      "top": 0.935976,
+      "width": 0.368627,
+      "height": 0.006652,
+      "font_group": "main"
+    },
+    {
+      "phrase": "140 Email procurement.elect@goalprime.org",
+      "left": 0.665882,
+      "top": 0.949002,
+      "width": 0.27451,
+      "height": 0.008592,
+      "font_group": "main"
+    },
+    {
+      "phrase": "1",
+      "left": 0.916078,
+      "top": 0.965632,
+      "width": 0.024314,
+      "height": 0.006929,
+      "font_group": "main"
+    },
+    {
+      "phrase": "info@goalprime.org",
+      "left": 0.913725,
+      "top": 0.965632,
+      "width": 0.026667,
+      "height": 0.006652,
+      "font_group": "main"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "template": "CCS Logistics",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "CCS Logistics",
+      "x": 180.0,
+      "y": 180.0,
+      "w": 228.0,
+      "h": 38.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "CCS Logistics"
+  }
+}

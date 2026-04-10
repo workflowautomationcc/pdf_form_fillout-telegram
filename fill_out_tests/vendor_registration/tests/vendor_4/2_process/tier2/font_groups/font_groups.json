@@ -1,0 +1,6 @@
+{
+  "tiny":  {"min_px": 0,  "max_px": 14},
+  "main":  {"min_px": 17, "max_px": 31},
+  "large": {"min_px": 43, "max_px": 43},
+  "giant": {"min_px": 54, "max_px": 59}
+}

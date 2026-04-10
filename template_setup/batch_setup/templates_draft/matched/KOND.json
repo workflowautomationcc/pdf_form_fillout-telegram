@@ -1,0 +1,19 @@
+{
+  "template": "KOND",
+  "page_width": 2550,
+  "page_height": 3606,
+  "anchors": [
+    {
+      "name": "KOND",
+      "x": 320.0,
+      "y": 166.0,
+      "w": 247.0,
+      "h": 64.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "KOND"
+  }
+}

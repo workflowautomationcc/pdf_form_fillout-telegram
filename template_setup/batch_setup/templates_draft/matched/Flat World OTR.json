@@ -1,0 +1,19 @@
+{
+  "template": "Flat World OTR",
+  "page_width": 2550,
+  "page_height": 3608,
+  "anchors": [
+    {
+      "name": "Flat World OTR",
+      "x": 180.0,
+      "y": 175.0,
+      "w": 186.0,
+      "h": 20.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Flat World OTR"
+  }
+}

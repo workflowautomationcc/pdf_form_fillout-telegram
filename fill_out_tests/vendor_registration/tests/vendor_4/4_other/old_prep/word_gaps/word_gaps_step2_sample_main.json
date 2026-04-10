@@ -1,0 +1,788 @@
+{
+  "font_group": "main",
+  "font_h_range_px": {
+    "min": 25.8,
+    "max": 44
+  },
+  "gaps": [
+    {
+      "gap_px": 5.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "if",
+          "x": 1444.0,
+          "y": 2433.0,
+          "w": 28.0,
+          "h": 41.0
+        },
+        "neighbor": {
+          "text": "payment",
+          "x": 1477.0,
+          "y": 2433.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 6.0,
+      "count": 4,
+      "example": {
+        "main_word": {
+          "text": "time",
+          "x": 1605.0,
+          "y": 2118.0,
+          "w": 65.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "Employees",
+          "x": 1676.0,
+          "y": 2118.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 7.0,
+      "count": 8,
+      "example": {
+        "main_word": {
+          "text": "1.",
+          "x": 161.0,
+          "y": 618.0,
+          "w": 31.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "Company",
+          "x": 199.0,
+          "y": 618.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 8.0,
+      "count": 18,
+      "example": {
+        "main_word": {
+          "text": "of",
+          "x": 338.0,
+          "y": 1443.0,
+          "w": 30.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "owner",
+          "x": 376.0,
+          "y": 1443.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 9.0,
+      "count": 16,
+      "example": {
+        "main_word": {
+          "text": "Company",
+          "x": 1351.0,
+          "y": 1093.0,
+          "w": 146.0,
+          "h": 30.0
+        },
+        "neighbor": {
+          "text": "Website",
+          "x": 1506.0,
+          "y": 1091.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 10.0,
+      "count": 32,
+      "example": {
+        "main_word": {
+          "text": "Street",
+          "x": 200.0,
+          "y": 738.0,
+          "w": 90.0,
+          "h": 26.0
+        },
+        "neighbor": {
+          "text": "Address",
+          "x": 300.0,
+          "y": 738.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 11.0,
+      "count": 56,
+      "example": {
+        "main_word": {
+          "text": "Company",
+          "x": 199.0,
+          "y": 618.0,
+          "w": 146.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "name",
+          "x": 356.0,
+          "y": 618.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 12.0,
+      "count": 52,
+      "example": {
+        "main_word": {
+          "text": "Company",
+          "x": 375.0,
+          "y": 530.0,
+          "w": 196.0,
+          "h": 39.0
+        },
+        "neighbor": {
+          "text": "Details",
+          "x": 583.0,
+          "y": 530.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 13.0,
+      "count": 31,
+      "example": {
+        "main_word": {
+          "text": "General",
+          "x": 822.0,
+          "y": 530.0,
+          "w": 158.0,
+          "h": 39.0
+        },
+        "neighbor": {
+          "text": "Information",
+          "x": 993.0,
+          "y": 530.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 14.0,
+      "count": 14,
+      "example": {
+        "main_word": {
+          "text": "and",
+          "x": 734.0,
+          "y": 530.0,
+          "w": 74.0,
+          "h": 39.0
+        },
+        "neighbor": {
+          "text": "General",
+          "x": 822.0,
+          "y": 530.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 15.0,
+      "count": 4,
+      "example": {
+        "main_word": {
+          "text": "3.",
+          "x": 1313.0,
+          "y": 738.0,
+          "w": 27.0,
+          "h": 32.0
+        },
+        "neighbor": {
+          "text": "P.O.",
+          "x": 1355.0,
+          "y": 738.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 16.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "Section",
+          "x": 158.0,
+          "y": 530.0,
+          "w": 153.0,
+          "h": 39.0
+        },
+        "neighbor": {
+          "text": "1",
+          "x": 327.0,
+          "y": 530.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 21.0,
+      "count": 8,
+      "example": {
+        "main_word": {
+          "text": "Corporate",
+          "x": 220.0,
+          "y": 1834.0,
+          "w": 151.0,
+          "h": 29.0
+        },
+        "neighbor": {
+          "text": "Limited",
+          "x": 392.0,
+          "y": 1832.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 22.0,
+      "count": 8,
+      "example": {
+        "main_word": {
+          "text": "name",
+          "x": 356.0,
+          "y": 618.0,
+          "w": 84.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "full",
+          "x": 462.0,
+          "y": 618.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 23.0,
+      "count": 4,
+      "example": {
+        "main_word": {
+          "text": "s",
+          "x": 480.0,
+          "y": 1443.0,
+          "w": 16.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "and",
+          "x": 519.0,
+          "y": 1443.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 24.0,
+      "count": 4,
+      "example": {
+        "main_word": {
+          "text": "Business",
+          "x": 343.0,
+          "y": 1754.0,
+          "w": 136.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "Mark",
+          "x": 503.0,
+          "y": 1754.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 25.0,
+      "count": 4,
+      "example": {
+        "main_word": {
+          "text": "Company",
+          "x": 327.0,
+          "y": 1324.0,
+          "w": 145.0,
+          "h": 35.0
+        },
+        "neighbor": {
+          "text": "Full",
+          "x": 497.0,
+          "y": 1325.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 27.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "Subsidiaries",
+          "x": 769.0,
+          "y": 1443.0,
+          "w": 186.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "Affiliates",
+          "x": 982.0,
+          "y": 1443.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 28.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "2",
+          "x": 323.0,
+          "y": 2433.0,
+          "w": 24.0,
+          "h": 41.0
+        },
+        "neighbor": {
+          "text": "Banking",
+          "x": 375.0,
+          "y": 2433.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 29.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "Director",
+          "x": 1405.0,
+          "y": 1443.0,
+          "w": 120.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "Managing",
+          "x": 1554.0,
+          "y": 1443.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 31.0,
+      "count": 4,
+      "example": {
+        "main_word": {
+          "text": "legal",
+          "x": 560.0,
+          "y": 1325.0,
+          "w": 70.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "officially",
+          "x": 661.0,
+          "y": 1325.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 32.0,
+      "count": 10,
+      "example": {
+        "main_word": {
+          "text": "1",
+          "x": 327.0,
+          "y": 530.0,
+          "w": 16.0,
+          "h": 39.0
+        },
+        "neighbor": {
+          "text": "Company",
+          "x": 375.0,
+          "y": 530.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 33.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "24.",
+          "x": 235.0,
+          "y": 2842.0,
+          "w": 47.0,
+          "h": 27.0
+        },
+        "neighbor": {
+          "text": "Bank",
+          "x": 315.0,
+          "y": 2842.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 40.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "principals",
+          "x": 586.0,
+          "y": 1443.0,
+          "w": 143.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "Subsidiaries",
+          "x": 769.0,
+          "y": 1443.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 42.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "OPTIONAL",
+          "x": 837.0,
+          "y": 2433.0,
+          "w": 199.0,
+          "h": 41.0
+        },
+        "neighbor": {
+          "text": "to",
+          "x": 1078.0,
+          "y": 2433.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 47.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "Information",
+          "x": 553.0,
+          "y": 2433.0,
+          "w": 237.0,
+          "h": 41.0
+        },
+        "neighbor": {
+          "text": "OPTIONAL",
+          "x": 837.0,
+          "y": 2433.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 117.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "Account",
+          "x": 1546.0,
+          "y": 2841.0,
+          "w": 124.0,
+          "h": 28.0
+        },
+        "neighbor": {
+          "text": "25",
+          "x": 1392.0,
+          "y": 2844.0,
+          "side": "left"
+        }
+      }
+    },
+    {
+      "gap_px": 119.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "Branch",
+          "x": 1549.0,
+          "y": 2566.0,
+          "w": 105.0,
+          "h": 31.0
+        },
+        "neighbor": {
+          "text": "20",
+          "x": 1393.0,
+          "y": 2567.0,
+          "side": "left"
+        }
+      }
+    },
+    {
+      "gap_px": 134.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "Consulting",
+          "x": 1242.0,
+          "y": 2000.0,
+          "w": 163.0,
+          "h": 32.0
+        },
+        "neighbor": {
+          "text": "Trader",
+          "x": 1008.0,
+          "y": 2001.0,
+          "side": "left"
+        }
+      }
+    },
+    {
+      "gap_px": 163.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "Partnership",
+          "x": 708.0,
+          "y": 1834.0,
+          "w": 171.0,
+          "h": 30.0
+        },
+        "neighbor": {
+          "text": "Other",
+          "x": 1042.0,
+          "y": 1829.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 208.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "Limited",
+          "x": 392.0,
+          "y": 1832.0,
+          "w": 108.0,
+          "h": 28.0
+        },
+        "neighbor": {
+          "text": "Partnership",
+          "x": 708.0,
+          "y": 1834.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 311.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "date",
+          "x": 936.0,
+          "y": 2272.0,
+          "w": 67.0,
+          "h": 32.0
+        },
+        "neighbor": {
+          "text": "18.",
+          "x": 1314.0,
+          "y": 2274.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 328.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "City",
+          "x": 670.0,
+          "y": 855.0,
+          "w": 57.0,
+          "h": 31.0
+        },
+        "neighbor": {
+          "text": "Code",
+          "x": 263.0,
+          "y": 857.0,
+          "side": "left"
+        }
+      }
+    },
+    {
+      "gap_px": 587.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "Manufacturer",
+          "x": 219.0,
+          "y": 2000.0,
+          "w": 202.0,
+          "h": 26.0
+        },
+        "neighbor": {
+          "text": "Trader",
+          "x": 1008.0,
+          "y": 2001.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 598.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "any",
+          "x": 739.0,
+          "y": 2566.0,
+          "w": 56.0,
+          "h": 31.0
+        },
+        "neighbor": {
+          "text": "20",
+          "x": 1393.0,
+          "y": 2567.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 734.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "Number",
+          "x": 536.0,
+          "y": 2842.0,
+          "w": 122.0,
+          "h": 27.0
+        },
+        "neighbor": {
+          "text": "25",
+          "x": 1392.0,
+          "y": 2844.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 825.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "Established1",
+          "x": 304.0,
+          "y": 2117.0,
+          "w": 186.0,
+          "h": 29.0
+        },
+        "neighbor": {
+          "text": "16.",
+          "x": 1315.0,
+          "y": 2116.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 888.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "Address",
+          "x": 300.0,
+          "y": 738.0,
+          "w": 125.0,
+          "h": 26.0
+        },
+        "neighbor": {
+          "text": "3.",
+          "x": 1313.0,
+          "y": 738.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 923.0,
+      "count": 2,
+      "example": {
+        "main_word": {
+          "text": "Agent",
+          "x": 755.0,
+          "y": 1998.0,
+          "w": 89.0,
+          "h": 35.0
+        },
+        "neighbor": {
+          "text": "Other",
+          "x": 1767.0,
+          "y": 1996.0,
+          "side": "right"
+        }
+      }
+    },
+    {
+      "gap_px": 1029.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "7.",
+          "x": 1312.0,
+          "y": 1093.0,
+          "w": 27.0,
+          "h": 33.0
+        },
+        "neighbor": {
+          "text": "Email",
+          "x": 201.0,
+          "y": 1094.0,
+          "side": "left"
+        }
+      }
+    },
+    {
+      "gap_px": 1067.0,
+      "count": 1,
+      "example": {
+        "main_word": {
+          "text": "Tel",
+          "x": 199.0,
+          "y": 1014.0,
+          "w": 47.0,
+          "h": 26.0
+        },
+        "neighbor": {
+          "text": "5.",
+          "x": 1313.0,
+          "y": 1016.0,
+          "side": "right"
+        }
+      }
+    }
+  ]
+}

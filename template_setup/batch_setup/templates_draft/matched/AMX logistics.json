@@ -1,0 +1,19 @@
+{
+  "template": "AMX logistics",
+  "page_width": 2550,
+  "page_height": 3300,
+  "anchors": [
+    {
+      "name": "AMX logistics",
+      "x": 162.0,
+      "y": 216.0,
+      "w": 279.0,
+      "h": 37.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "AMX logistics"
+  }
+}

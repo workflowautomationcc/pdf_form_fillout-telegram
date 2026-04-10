@@ -1,0 +1,256 @@
+{
+  "page": "page_1",
+  "image_size": {
+    "w": 2550,
+    "h": 3608
+  },
+  "group_0_footer_zone": {
+    "y_start": 0.867794,
+    "method": "lowermost_wide_hline",
+    "last_wide_hline_y": 0.867794,
+    "tiny_font_present": true
+  },
+  "safe_footer_box": {
+    "top": 0.8919068736141907,
+    "left": 0.06196078431372549,
+    "bottom": 0.9725609756097561,
+    "right": 0.916078431372549
+  },
+  "matched_count": 9,
+  "unmatched_count": 0,
+  "footer_phrases": [
+    {
+      "text": "1",
+      "top": 0.8919068736141907,
+      "left": 0.06274509803921569,
+      "width": 0.0023529411764705854,
+      "height": 0.00471175166297122,
+      "font_group": "main",
+      "groups": [
+        {
+          "group": "group_3_page_number",
+          "evidence": {
+            "regex": {
+              "isolated_digit": "1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "text": "3 years of operation is a currency\u00b3",
+      "top": 0.8957871396895787,
+      "left": 0.07176470588235294,
+      "width": 0.14980392156862743,
+      "height": 0.005266075388026703,
+      "font_group": "main",
+      "groups": [
+        {
+          "group": "group_2_legal_footnote",
+          "evidence": {
+            "regex": {
+              "superscript_marker": "3 ",
+              "footnote_number": "3 y"
+            }
+          }
+        },
+        {
+          "group": "group_3_page_number",
+          "evidence": {
+            "keywords": [
+              "of"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "text": "2",
+      "top": 0.9060421286031042,
+      "left": 0.06196078431372549,
+      "width": 0.003921568627450987,
+      "height": 0.0044345898004434225,
+      "font_group": "other",
+      "groups": [
+        {
+          "group": "group_3_page_number",
+          "evidence": {
+            "regex": {
+              "isolated_digit": "2"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "text": "The Account name is the minimum Name the Bank uses for the Company It should be the same as the Company Name as stated in section 1 above",
+      "top": 0.9099223946784922,
+      "left": 0.07019607843137254,
+      "width": 0.6168627450980392,
+      "height": 0.004988913525498906,
+      "font_group": "main",
+      "groups": [
+        {
+          "group": "group_1_issuer_info",
+          "evidence": {
+            "keywords": {
+              "address": [
+                "ct",
+                "state"
+              ]
+            }
+          }
+        },
+        {
+          "group": "group_2_legal_footnote",
+          "evidence": {
+            "keywords": [
+              "as stated",
+              "minimum"
+            ]
+          }
+        },
+        {
+          "group": "group_5_annotations",
+          "evidence": {
+            "keywords": {
+              "instructions": [
+                "state"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "text": "that Plot Ambassador Yusufari street off NUJ house new GRA Bama road Maiduguri Borno State",
+      "top": 0.9226718403547672,
+      "left": 0.20745098039215687,
+      "width": 0.5960784313725491,
+      "height": 0.007206208425720506,
+      "font_group": "main",
+      "groups": [
+        {
+          "group": "group_1_issuer_info",
+          "evidence": {
+            "keywords": {
+              "address": [
+                "street",
+                "road",
+                "pl",
+                "state",
+                "gra",
+                "plot",
+                "off"
+              ]
+            }
+          }
+        },
+        {
+          "group": "group_3_page_number",
+          "evidence": {
+            "keywords": [
+              "of"
+            ]
+          }
+        },
+        {
+          "group": "group_5_annotations",
+          "evidence": {
+            "keywords": {
+              "instructions": [
+                "state"
+              ]
+            }
+          }
+        }
+      ]
+    },
+    {
+      "text": "Phone number +2349094901227",
+      "top": 0.9359756097560976,
+      "left": 0.3658823529411765,
+      "width": 0.20588235294117646,
+      "height": 0.006651884700665134,
+      "font_group": "main",
+      "groups": [
+        {
+          "group": "group_1_issuer_info",
+          "evidence": {
+            "keywords": {
+              "contact": [
+                "phone"
+              ]
+            },
+            "regex": {
+              "phone": "+2349094901227"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "text": "140 Email procurement.elect@goalprime.org",
+      "top": 0.9490022172949002,
+      "left": 0.27215686274509804,
+      "width": 0.39372549019607844,
+      "height": 0.008592017738359159,
+      "font_group": "main",
+      "groups": [
+        {
+          "group": "group_1_issuer_info",
+          "evidence": {
+            "keywords": {
+              "address": [
+                "ct"
+              ],
+              "contact": [
+                "email"
+              ]
+            },
+            "regex": {
+              "email": "procurement.elect@goalprime.org"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "text": "1",
+      "top": 0.9656319290465631,
+      "left": 0.9086274509803921,
+      "width": 0.0074509803921568585,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "groups": [
+        {
+          "group": "group_3_page_number",
+          "evidence": {
+            "regex": {
+              "isolated_digit": "1"
+            }
+          }
+        }
+      ]
+    },
+    {
+      "text": "info@goalprime.org",
+      "top": 0.9656319290465631,
+      "left": 0.9101960784313725,
+      "width": 0.003529411764705892,
+      "height": 0.006651884700665134,
+      "font_group": "main",
+      "groups": [
+        {
+          "group": "group_1_issuer_info",
+          "evidence": {
+            "regex": {
+              "email": "info@goalprime.org"
+            }
+          }
+        }
+      ]
+    }
+  ],
+  "unmatched": []
+}

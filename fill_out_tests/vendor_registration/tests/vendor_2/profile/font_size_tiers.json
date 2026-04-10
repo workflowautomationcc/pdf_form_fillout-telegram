@@ -1,0 +1,32 @@
+[
+  {
+    "height_px": 24,
+    "count": 16,
+    "pct": 8.7
+  },
+  {
+    "height_px": 27,
+    "count": 41,
+    "pct": 22.3
+  },
+  {
+    "height_px": 30,
+    "count": 59,
+    "pct": 32.1
+  },
+  {
+    "height_px": 33,
+    "count": 17,
+    "pct": 9.2
+  },
+  {
+    "height_px": 36,
+    "count": 50,
+    "pct": 27.2
+  },
+  {
+    "height_px": 229,
+    "count": 1,
+    "pct": 0.5
+  }
+]

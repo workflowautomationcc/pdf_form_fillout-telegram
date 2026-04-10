@@ -1,0 +1,19 @@
+{
+  "template": "Supply chain solutions",
+  "page_width": 2550,
+  "page_height": 3606,
+  "anchors": [
+    {
+      "name": "Supply Chain Solutions",
+      "x": 132.0,
+      "y": 297.0,
+      "w": 640.0,
+      "h": 60.0
+    }
+  ],
+  "price_fields": [],
+  "anchor_match": {
+    "status": "matched",
+    "anchor": "Supply Chain Solutions"
+  }
+}

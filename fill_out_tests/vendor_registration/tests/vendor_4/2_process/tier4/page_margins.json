@@ -1,0 +1,19 @@
+{
+  "page": "page_1",
+  "image_size": {
+    "w": 2550,
+    "h": 3608
+  },
+  "margins": {
+    "left": 0.061961,
+    "top": 0.047395,
+    "right": 0.940392,
+    "bottom": 0.972561
+  },
+  "margins_px": {
+    "left": 158.0,
+    "top": 171.0,
+    "right": 2398.0,
+    "bottom": 3509.0
+  }
+}
