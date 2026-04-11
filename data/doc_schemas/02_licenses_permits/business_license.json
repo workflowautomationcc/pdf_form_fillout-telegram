@@ -1,0 +1,15 @@
+{
+  "document_type": "Business License",
+  "group": "02_licenses_permits",
+  "provides": {
+    "company_name": "company.name",
+    "licence_number": "license.number",
+    "licence_state": "license.state",
+    "licence_expiry": "license.expiry_date",
+    "nature_of_business": "license.business_type",
+    "street_address": "address.street",
+    "city": "address.city",
+    "state": "address.state",
+    "zip": "address.zip"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "document_type": "Master Service Agreement",
+  "group": "06_contracts_agreements",
+  "provides": {
+    "company_name": "vendor.name",
+    "street_address": "vendor.address.street",
+    "city": "vendor.address.city",
+    "state": "vendor.address.state",
+    "zip": "vendor.address.zip",
+    "signatory_name": "signature.name",
+    "signatory_title": "signature.title",
+    "signatory_date": "signature.date",
+    "effective_date": "contract.effective_date",
+    "expiry_date": "contract.expiry_date"
+  }
+}

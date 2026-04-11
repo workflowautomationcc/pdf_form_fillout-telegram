@@ -1,0 +1,15 @@
+{
+  "document_type": "Receipt",
+  "group": "11_invoices_financial",
+  "provides": {
+    "company_name": "vendor.name",
+    "street_address": "vendor.address.street",
+    "city": "vendor.address.city",
+    "state": "vendor.address.state",
+    "zip": "vendor.address.zip",
+    "tel": "vendor.phone",
+    "receipt_number": "receipt.number",
+    "receipt_date": "receipt.date",
+    "receipt_total": "receipt.total"
+  }
+}

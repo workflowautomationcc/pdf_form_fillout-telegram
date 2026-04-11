@@ -1,0 +1,16 @@
+{
+  "document_type": "ISO Certification",
+  "group": "08_certifications_compliance",
+  "provides": {
+    "company_name": "company.name",
+    "certification_name": "certification.name",
+    "certification_number": "certification.number",
+    "certification_date": "certification.issue_date",
+    "certification_expiry": "certification.expiry_date",
+    "certification_issuer": "certification.issuer",
+    "street_address": "company.address.street",
+    "city": "company.address.city",
+    "state": "company.address.state",
+    "zip": "company.address.zip"
+  }
+}

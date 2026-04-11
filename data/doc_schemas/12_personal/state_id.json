@@ -1,0 +1,17 @@
+{
+  "document_type": "State ID",
+  "group": "12_personal",
+  "provides": {
+    "person_name": "holder.name",
+    "person_first_name": "holder.first_name",
+    "person_last_name": "holder.last_name",
+    "person_dob": "holder.date_of_birth",
+    "id_number": "id.number",
+    "id_state": "id.state",
+    "id_expiry": "id.expiry_date",
+    "street_address": "holder.address.street",
+    "city": "holder.address.city",
+    "state": "holder.address.state",
+    "zip": "holder.address.zip"
+  }
+}

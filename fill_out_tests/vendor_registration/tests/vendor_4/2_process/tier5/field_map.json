@@ -1,0 +1,1277 @@
+{
+  "page": "page_1",
+  "image_size": {
+    "w": 2550,
+    "h": 3608
+  },
+  "field_count": 49,
+  "fields": [
+    {
+      "text": "GOALPrime Organization Nigeria GPON",
+      "left": 0.17215686274509803,
+      "top": 0.04739467849223947,
+      "width": 0.6094117647058824,
+      "height": 0.01635254988913526,
+      "font_group": "giant",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "GOALPrime Organization Nigeria GPON",
+        "left": 0.781569,
+        "top": 0.047395,
+        "width": 0.158823,
+        "height": 0.016353,
+        "font_group": "giant"
+      },
+      "bottom_space": {
+        "phrase": "GOALPrime Organization Nigeria GPON",
+        "left": 0.172157,
+        "top": 0.063747,
+        "width": 0.768235,
+        "height": 0.009147,
+        "gap_px": 33.0,
+        "font_group": "giant"
+      }
+    },
+    {
+      "text": "Organisation Niger's",
+      "left": 0.09176470588235294,
+      "top": 0.06929046563192905,
+      "width": 0.056470588235294134,
+      "height": 0.009700665188470056,
+      "font_group": "tiny",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "Organisation Niger's",
+        "left": 0.148235,
+        "top": 0.06929,
+        "width": 0.043922,
+        "height": 0.009701,
+        "font_group": "tiny"
+      },
+      "bottom_space": {
+        "phrase": "Organisation Niger's",
+        "left": 0.091765,
+        "top": 0.078991,
+        "width": 0.100392,
+        "height": 0.029379,
+        "gap_px": 106.0,
+        "font_group": "tiny"
+      }
+    },
+    {
+      "text": "VENDOR REGISTRATION FORM",
+      "left": 0.2647058823529412,
+      "top": 0.08924611973392461,
+      "width": 0.3576470588235294,
+      "height": 0.011917960088691795,
+      "font_group": "large",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "VENDOR REGISTRATION FORM",
+        "left": 0.622353,
+        "top": 0.089246,
+        "width": 0.139216,
+        "height": 0.011918,
+        "font_group": "large"
+      },
+      "bottom_space": {
+        "phrase": "VENDOR REGISTRATION FORM",
+        "left": 0.264706,
+        "top": 0.101164,
+        "width": 0.496863,
+        "height": 0.008869,
+        "gap_px": 32.0,
+        "font_group": "large"
+      }
+    },
+    {
+      "text": "making fine butir in nations",
+      "left": 0.07176470588235294,
+      "top": 0.10837028824833703,
+      "width": 0.06000000000000001,
+      "height": 0.0019401330376940112,
+      "font_group": "tiny",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "making fine butir in nations",
+        "left": 0.131765,
+        "top": 0.10837,
+        "width": 0.808627,
+        "height": 0.00194,
+        "font_group": "tiny"
+      },
+      "bottom_space": {
+        "phrase": "making fine butir in nations",
+        "left": 0.071765,
+        "top": 0.11031,
+        "width": 0.868627,
+        "height": 0.033537,
+        "gap_px": 121.0,
+        "font_group": "tiny"
+      }
+    },
+    {
+      "text": "Section 1 Company Details and General Information",
+      "left": 0.06274509803921569,
+      "top": 0.1471729490022173,
+      "width": 0.4176470588235294,
+      "height": 0.008592017738359214,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "Section 1 Company Details and General Information",
+        "left": 0.480392,
+        "top": 0.147173,
+        "width": 0.46,
+        "height": 0.008592,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Section 1 Company Details and General Information",
+        "left": 0.062745,
+        "top": 0.155765,
+        "width": 0.877647,
+        "height": 0.004989,
+        "gap_px": 18.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "1. Company name full legal name",
+      "left": 0.06431372549019608,
+      "top": 0.17156319290465633,
+      "width": 0.20235294117647057,
+      "height": 0.008314855875831473,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "1. Company name full legal name",
+        "left": 0.266667,
+        "top": 0.171563,
+        "width": 0.673725,
+        "height": 0.008315,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "1. Company name full legal name",
+        "left": 0.064314,
+        "top": 0.179878,
+        "width": 0.876078,
+        "height": 0.017461,
+        "gap_px": 63.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "2. Street Address",
+      "left": 0.06352941176470588,
+      "top": 0.20454545454545456,
+      "width": 0.1023529411764706,
+      "height": 0.006929046563192903,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "2. Street Address",
+        "left": 0.165882,
+        "top": 0.204545,
+        "width": 0.330196,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "2. Street Address",
+        "left": 0.063529,
+        "top": 0.211475,
+        "width": 0.432549,
+        "height": 0.026053,
+        "gap_px": 94.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "3. P.O. Box and Mailing Address",
+      "left": 0.515686274509804,
+      "top": 0.20454545454545456,
+      "width": 0.19294117647058817,
+      "height": 0.006929046563192903,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "3. P.O. Box and Mailing Address",
+        "left": 0.708627,
+        "top": 0.204545,
+        "width": 0.231765,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "3. P.O. Box and Mailing Address",
+        "left": 0.515686,
+        "top": 0.211475,
+        "width": 0.424706,
+        "height": 0.060698,
+        "gap_px": 219.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Postal Code",
+      "left": 0.06274509803921569,
+      "top": 0.23752771618625276,
+      "width": 0.07098039215686275,
+      "height": 0.006651884700665189,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "Postal Code",
+        "left": 0.133725,
+        "top": 0.237528,
+        "width": 0.130196,
+        "height": 0.006652,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Postal Code",
+        "left": 0.062745,
+        "top": 0.24418,
+        "width": 0.201176,
+        "height": 0.015521,
+        "gap_px": 56.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "City",
+      "left": 0.263921568627451,
+      "top": 0.23752771618625276,
+      "width": 0.020784313725490167,
+      "height": 0.006929046563192903,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "City",
+        "left": 0.284706,
+        "top": 0.237528,
+        "width": 0.211372,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "City",
+        "left": 0.263922,
+        "top": 0.244457,
+        "width": 0.232156,
+        "height": 0.027716,
+        "gap_px": 100.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Country",
+      "left": 0.06196078431372549,
+      "top": 0.25970066518847007,
+      "width": 0.04588235294117648,
+      "height": 0.006651884700665189,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "Country",
+        "left": 0.107843,
+        "top": 0.259701,
+        "width": 0.388235,
+        "height": 0.006652,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Country",
+        "left": 0.061961,
+        "top": 0.266353,
+        "width": 0.434117,
+        "height": 0.00582,
+        "gap_px": 21.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "4. Tel 5. Fax",
+      "left": 0.06313725490196079,
+      "top": 0.2813192904656319,
+      "width": 0.4882352941176471,
+      "height": 0.006651884700665189,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "4. Tel 5. Fax",
+        "left": 0.551373,
+        "top": 0.281319,
+        "width": 0.389019,
+        "height": 0.006652,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "4. Tel 5. Fax",
+        "left": 0.063137,
+        "top": 0.287971,
+        "width": 0.877255,
+        "height": 0.015244,
+        "gap_px": 55.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "6. Email",
+      "left": 0.06313725490196079,
+      "top": 0.3032150776053215,
+      "width": 0.047058823529411764,
+      "height": 0.006651884700665189,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "6. Email",
+        "left": 0.110196,
+        "top": 0.303215,
+        "width": 0.40549,
+        "height": 0.006652,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "6. Email",
+        "left": 0.063137,
+        "top": 0.309867,
+        "width": 0.452549,
+        "height": 0.00776,
+        "gap_px": 28.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "7. Company Website",
+      "left": 0.515686274509804,
+      "top": 0.3032150776053215,
+      "width": 0.12352941176470589,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "7. Company Website",
+        "left": 0.639216,
+        "top": 0.303215,
+        "width": 0.301176,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "7. Company Website",
+        "left": 0.515686,
+        "top": 0.310144,
+        "width": 0.424706,
+        "height": 0.007483,
+        "gap_px": 27.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "8. Contact Name and Job Title",
+      "left": 0.06274509803921569,
+      "top": 0.3240022172949002,
+      "width": 0.18941176470588234,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "8. Contact Name and Job Title",
+        "left": 0.252157,
+        "top": 0.324002,
+        "width": 0.688235,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "8. Contact Name and Job Title",
+        "left": 0.062745,
+        "top": 0.330931,
+        "width": 0.877647,
+        "height": 0.015244,
+        "gap_px": 55.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "9. Email",
+      "left": 0.06274509803921569,
+      "top": 0.34617516629711753,
+      "width": 0.055686274509803915,
+      "height": 0.006374722838137448,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "9. Email",
+        "left": 0.118431,
+        "top": 0.346175,
+        "width": 0.821961,
+        "height": 0.006375,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "9. Email",
+        "left": 0.062745,
+        "top": 0.35255,
+        "width": 0.877647,
+        "height": 0.003049,
+        "gap_px": 11.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "10. Parent Company Full legal officially registered company name",
+      "left": 0.06352941176470588,
+      "top": 0.3677937915742794,
+      "width": 0.40078431372549017,
+      "height": 0.008314855875831473,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "10. Parent Company Full legal officially registered company name",
+        "left": 0.464314,
+        "top": 0.367794,
+        "width": 0.476078,
+        "height": 0.008315,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "10. Parent Company Full legal officially registered company name",
+        "left": 0.063529,
+        "top": 0.376109,
+        "width": 0.876863,
+        "height": 0.016907,
+        "gap_px": 61.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "11. Names of owner s and principals Subsidiaries Affiliates CEO Managing Director Managing Member and those with controlling interests if",
+      "left": 0.06352941176470588,
+      "top": 0.3999445676274945,
+      "width": 0.8768627450980393,
+      "height": 0.008592017738359159,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": null,
+      "bottom_space": {
+        "phrase": "11. Names of owner s and principals Subsidiaries Affiliates CEO Managing Director Managing Member and those with controlling interests if",
+        "left": 0.063529,
+        "top": 0.408537,
+        "width": 0.876863,
+        "height": 0.002772,
+        "gap_px": 10.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "applicable attach a List if necessary",
+      "left": 0.06274509803921569,
+      "top": 0.4113082039911308,
+      "width": 0.2152941176470588,
+      "height": 0.0069290465631928755,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "applicable attach a List if necessary",
+        "left": 0.278039,
+        "top": 0.411308,
+        "width": 0.662353,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "applicable attach a List if necessary",
+        "left": 0.062745,
+        "top": 0.418237,
+        "width": 0.877647,
+        "height": 0.026053,
+        "gap_px": 94.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "12. International Offices Representation Countries where the Company has local Offices Representation",
+      "left": 0.06352941176470588,
+      "top": 0.44429046563192903,
+      "width": 0.6223529411764707,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "12. International Offices Representation Countries where the Company has local Offices Representation",
+        "left": 0.685882,
+        "top": 0.44429,
+        "width": 0.25451,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "12. International Offices Representation Countries where the Company has local Offices Representation",
+        "left": 0.063529,
+        "top": 0.45122,
+        "width": 0.876863,
+        "height": 0.02633,
+        "gap_px": 95.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "13. Type of Business Mark one only",
+      "left": 0.06431372549019608,
+      "top": 0.4864190687361419,
+      "width": 0.21568627450980388,
+      "height": 0.008592017738359214,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "13. Type of Business Mark one only",
+        "left": 0.28,
+        "top": 0.486419,
+        "width": 0.660392,
+        "height": 0.008592,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "13. Type of Business Mark one only",
+        "left": 0.064314,
+        "top": 0.495011,
+        "width": 0.876078,
+        "height": 0.006098,
+        "gap_px": 22.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Other specify",
+      "left": 0.40901960784313723,
+      "top": 0.5083148558758315,
+      "width": 0.08235294117647057,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "Other specify",
+        "left": 0.775294,
+        "top": 0.554324,
+        "width": 0.165098,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Other specify",
+        "left": 0.692941,
+        "top": 0.561253,
+        "width": 0.247451,
+        "height": 0.011918,
+        "gap_px": 43.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Corporate Limited",
+      "left": 0.08705882352941176,
+      "top": 0.508869179600887,
+      "width": 0.10862745098039216,
+      "height": 0.006374722838137448,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "Corporate Limited",
+        "left": 0.195686,
+        "top": 0.508869,
+        "width": 0.008236,
+        "height": 0.006375,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Corporate Limited",
+        "left": 0.087059,
+        "top": 0.515244,
+        "width": 0.116863,
+        "height": 0.010809,
+        "gap_px": 39.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Partnership",
+      "left": 0.2784313725490196,
+      "top": 0.5085920177383592,
+      "width": 0.0658823529411765,
+      "height": 0.006651884700665134,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "Partnership",
+        "left": 0.344314,
+        "top": 0.508592,
+        "width": 0.023137,
+        "height": 0.006652,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Partnership",
+        "left": 0.278431,
+        "top": 0.515244,
+        "width": 0.08902,
+        "height": 0.010809,
+        "gap_px": 39.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "14. Nature of Business",
+      "left": 0.06274509803921569,
+      "top": 0.5324279379157428,
+      "width": 0.13372549019607843,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "14. Nature of Business",
+        "left": 0.196471,
+        "top": 0.532428,
+        "width": 0.743921,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "14. Nature of Business",
+        "left": 0.062745,
+        "top": 0.539357,
+        "width": 0.877647,
+        "height": 0.008592,
+        "gap_px": 31.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Other specify",
+      "left": 0.6929411764705883,
+      "top": 0.5543237250554324,
+      "width": 0.08235294117647052,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "Other specify",
+        "left": 0.775294,
+        "top": 0.554324,
+        "width": 0.165098,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Other specify",
+        "left": 0.692941,
+        "top": 0.561253,
+        "width": 0.247451,
+        "height": 0.011918,
+        "gap_px": 43.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Authorised Agent",
+      "left": 0.22823529411764706,
+      "top": 0.5551552106430155,
+      "width": 0.10235294117647056,
+      "height": 0.007483370288248303,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "Authorised Agent",
+        "left": 0.330588,
+        "top": 0.555155,
+        "width": 0.004706,
+        "height": 0.007483,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Authorised Agent",
+        "left": 0.228235,
+        "top": 0.562639,
+        "width": 0.107059,
+        "height": 0.010532,
+        "gap_px": 38.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Trader",
+      "left": 0.3952941176470588,
+      "top": 0.5546008869179601,
+      "width": 0.03843137254901963,
+      "height": 0.006374722838137448,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "Trader",
+        "left": 0.433725,
+        "top": 0.554601,
+        "width": 0.010589,
+        "height": 0.006375,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Trader",
+        "left": 0.395294,
+        "top": 0.560976,
+        "width": 0.04902,
+        "height": 0.012195,
+        "gap_px": 44.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Consulting Company",
+      "left": 0.48784313725490197,
+      "top": 0.5546008869179601,
+      "width": 0.12352941176470583,
+      "height": 0.006651884700665245,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "Consulting Company",
+        "left": 0.611373,
+        "top": 0.554601,
+        "width": 0.014509,
+        "height": 0.006652,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Consulting Company",
+        "left": 0.487843,
+        "top": 0.561253,
+        "width": 0.138039,
+        "height": 0.011918,
+        "gap_px": 43.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Manufacturer",
+      "left": 0.08627450980392157,
+      "top": 0.5559866962305987,
+      "width": 0.07764705882352943,
+      "height": 0.005266075388026592,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "Manufacturer",
+        "left": 0.163922,
+        "top": 0.555987,
+        "width": 0.014117,
+        "height": 0.005266,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Manufacturer",
+        "left": 0.086275,
+        "top": 0.561253,
+        "width": 0.091764,
+        "height": 0.011918,
+        "gap_px": 43.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "15. Year Established1",
+      "left": 0.06352941176470588,
+      "top": 0.5873059866962306,
+      "width": 0.12705882352941178,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "15. Year Established1",
+        "left": 0.190588,
+        "top": 0.587306,
+        "width": 0.32549,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "15. Year Established1",
+        "left": 0.063529,
+        "top": 0.594235,
+        "width": 0.452549,
+        "height": 0.023282,
+        "gap_px": 84.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "16. Number of Full time Employees",
+      "left": 0.516078431372549,
+      "top": 0.5873059866962306,
+      "width": 0.2058823529411764,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "16. Number of Full time Employees",
+        "left": 0.721961,
+        "top": 0.587306,
+        "width": 0.218431,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "16. Number of Full time Employees",
+        "left": 0.516078,
+        "top": 0.594235,
+        "width": 0.424314,
+        "height": 0.023282,
+        "gap_px": 84.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "17. Licence no./State where registered and validity date",
+      "left": 0.06313725490196079,
+      "top": 0.6299889135254989,
+      "width": 0.3294117647058824,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "17. Licence no./State where registered and validity date",
+        "left": 0.392549,
+        "top": 0.629989,
+        "width": 0.123137,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "17. Licence no./State where registered and validity date",
+        "left": 0.063137,
+        "top": 0.636918,
+        "width": 0.452549,
+        "height": 0.023282,
+        "gap_px": 84.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "18. VAT No./Taxl.D",
+      "left": 0.515686274509804,
+      "top": 0.6302660753880266,
+      "width": 0.11568627450980395,
+      "height": 0.006374722838137448,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "18. VAT No./Taxl.D",
+        "left": 0.631373,
+        "top": 0.630266,
+        "width": 0.309019,
+        "height": 0.006375,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "18. VAT No./Taxl.D",
+        "left": 0.515686,
+        "top": 0.636641,
+        "width": 0.424706,
+        "height": 0.023559,
+        "gap_px": 85.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Section 2 Banking Information OPTIONAL to be provided only if payment from GPON is expected",
+      "left": 0.06235294117647059,
+      "top": 0.6746119733924612,
+      "width": 0.7529411764705881,
+      "height": 0.00859201773835927,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "Section 2 Banking Information OPTIONAL to be provided only if payment from GPON is expected",
+        "left": 0.815294,
+        "top": 0.674612,
+        "width": 0.125098,
+        "height": 0.008592,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Section 2 Banking Information OPTIONAL to be provided only if payment from GPON is expected",
+        "left": 0.062353,
+        "top": 0.683204,
+        "width": 0.878039,
+        "height": 0.004989,
+        "gap_px": 18.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "19. Bank Name and Bank ID if any",
+      "left": 0.09411764705882353,
+      "top": 0.7111973392461197,
+      "width": 0.21647058823529414,
+      "height": 0.008037694013303787,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "19. Bank Name and Bank ID if any",
+        "left": 0.310588,
+        "top": 0.711197,
+        "width": 0.236078,
+        "height": 0.008038,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "19. Bank Name and Bank ID if any",
+        "left": 0.094118,
+        "top": 0.719235,
+        "width": 0.452549,
+        "height": 0.014412,
+        "gap_px": 52.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "20 Branch Name and Branch Code if any",
+      "left": 0.5466666666666666,
+      "top": 0.7111973392461197,
+      "width": 0.28980392156862744,
+      "height": 0.008037694013303787,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "20 Branch Name and Branch Code if any",
+        "left": 0.836471,
+        "top": 0.711197,
+        "width": 0.103921,
+        "height": 0.008038,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "20 Branch Name and Branch Code if any",
+        "left": 0.546667,
+        "top": 0.719235,
+        "width": 0.393725,
+        "height": 0.014135,
+        "gap_px": 51.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "22 Tel number",
+      "left": 0.5466666666666666,
+      "top": 0.733370288248337,
+      "width": 0.13137254901960782,
+      "height": 0.00692904656319282,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "22 Tel number",
+        "left": 0.678039,
+        "top": 0.73337,
+        "width": 0.262353,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "22 Tel number",
+        "left": 0.546667,
+        "top": 0.740299,
+        "width": 0.393725,
+        "height": 0.01469,
+        "gap_px": 53.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "21. Branch Address",
+      "left": 0.09333333333333334,
+      "top": 0.7336474501108647,
+      "width": 0.12431372549019608,
+      "height": 0.006374722838137559,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "21. Branch Address",
+        "left": 0.217647,
+        "top": 0.733647,
+        "width": 0.32902,
+        "height": 0.006375,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "21. Branch Address",
+        "left": 0.093333,
+        "top": 0.740022,
+        "width": 0.453333,
+        "height": 0.047949,
+        "gap_px": 173.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "23 Fax number",
+      "left": 0.5466666666666666,
+      "top": 0.7549889135254989,
+      "width": 0.13137254901960782,
+      "height": 0.006651884700665134,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "23 Fax number",
+        "left": 0.678039,
+        "top": 0.754989,
+        "width": 0.262353,
+        "height": 0.006652,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "23 Fax number",
+        "left": 0.546667,
+        "top": 0.761641,
+        "width": 0.393725,
+        "height": 0.02633,
+        "gap_px": 95.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "24. Bank Account Number",
+      "left": 0.09333333333333334,
+      "top": 0.7879711751662971,
+      "width": 0.16352941176470592,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "24. Bank Account Number",
+        "left": 0.256863,
+        "top": 0.787971,
+        "width": 0.289804,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "24. Bank Account Number",
+        "left": 0.093333,
+        "top": 0.7949,
+        "width": 0.453333,
+        "height": 0.014967,
+        "gap_px": 54.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "25 Account Name\u00b2",
+      "left": 0.5466666666666666,
+      "top": 0.7879711751662971,
+      "width": 0.15254901960784317,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "25 Account Name\u00b2",
+        "left": 0.699216,
+        "top": 0.787971,
+        "width": 0.241176,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "25 Account Name\u00b2",
+        "left": 0.546667,
+        "top": 0.7949,
+        "width": 0.393725,
+        "height": 0.072894,
+        "gap_px": 263.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "26. Account currency\u00b3",
+      "left": 0.09333333333333334,
+      "top": 0.8098669623059866,
+      "width": 0.13803921568627453,
+      "height": 0.006929046563192931,
+      "font_group": "main",
+      "fill_zone": "bottom",
+      "right_space": {
+        "phrase": "26. Account currency\u00b3",
+        "left": 0.231373,
+        "top": 0.809867,
+        "width": 0.709019,
+        "height": 0.006929,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "26. Account currency\u00b3",
+        "left": 0.093333,
+        "top": 0.816796,
+        "width": 0.847059,
+        "height": 0.050998,
+        "gap_px": 184.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "1 3 years of operation is a minimum",
+      "left": 0.06274509803921569,
+      "top": 0.8919068736141907,
+      "width": 0.1588235294117647,
+      "height": 0.009146341463414642,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "1 3 years of operation is a minimum",
+        "left": 0.221569,
+        "top": 0.891907,
+        "width": 0.718823,
+        "height": 0.009146,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "1 3 years of operation is a minimum",
+        "left": 0.062745,
+        "top": 0.901053,
+        "width": 0.877647,
+        "height": 0.004989,
+        "gap_px": 18.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "2 The Account name is the Name that the Bank uses for the Company It should be the same as the Company Name as stated in section 1 above",
+      "left": 0.06196078431372549,
+      "top": 0.9060421286031042,
+      "width": 0.6250980392156862,
+      "height": 0.008869179600886956,
+      "font_group": "other",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "2 The Account name is the Name that the Bank uses for the Company It should be the same as the Company Name as stated in section 1 above",
+        "left": 0.687059,
+        "top": 0.906042,
+        "width": 0.253333,
+        "height": 0.008869,
+        "font_group": "other"
+      },
+      "bottom_space": {
+        "phrase": "2 The Account name is the Name that the Bank uses for the Company It should be the same as the Company Name as stated in section 1 above",
+        "left": 0.061961,
+        "top": 0.914911,
+        "width": 0.878431,
+        "height": 0.007761,
+        "gap_px": 28.0,
+        "font_group": "other"
+      }
+    },
+    {
+      "text": "Plot 140 Ambassador Yusufari street off NUJ house new GRA Bama road Maiduguri Borno State",
+      "left": 0.20745098039215687,
+      "top": 0.9226718403547672,
+      "width": 0.5960784313725491,
+      "height": 0.007206208425720506,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "Plot 140 Ambassador Yusufari street off NUJ house new GRA Bama road Maiduguri Borno State",
+        "left": 0.803529,
+        "top": 0.922672,
+        "width": 0.136863,
+        "height": 0.007206,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Plot 140 Ambassador Yusufari street off NUJ house new GRA Bama road Maiduguri Borno State",
+        "left": 0.207451,
+        "top": 0.929878,
+        "width": 0.732941,
+        "height": 0.006098,
+        "gap_px": 22.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Phone number +2349094901227",
+      "left": 0.3658823529411765,
+      "top": 0.9359756097560976,
+      "width": 0.20588235294117646,
+      "height": 0.006651884700665134,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "Phone number +2349094901227",
+        "left": 0.571765,
+        "top": 0.935976,
+        "width": 0.368627,
+        "height": 0.006652,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Phone number +2349094901227",
+        "left": 0.365882,
+        "top": 0.942627,
+        "width": 0.57451,
+        "height": 0.006375,
+        "gap_px": 23.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "Email procurement.elect@goalprime.org info@goalprime.org",
+      "left": 0.27215686274509804,
+      "top": 0.9490022172949002,
+      "width": 0.39372549019607844,
+      "height": 0.008592017738359159,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "Email procurement.elect@goalprime.org info@goalprime.org",
+        "left": 0.665882,
+        "top": 0.949002,
+        "width": 0.27451,
+        "height": 0.008592,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "Email procurement.elect@goalprime.org info@goalprime.org",
+        "left": 0.272157,
+        "top": 0.957594,
+        "width": 0.668235,
+        "height": 0.008038,
+        "gap_px": 29.0,
+        "font_group": "main"
+      }
+    },
+    {
+      "text": "1",
+      "left": 0.9101960784313725,
+      "top": 0.9656319290465631,
+      "width": 0.003529411764705892,
+      "height": 0.006651884700665134,
+      "font_group": "main",
+      "fill_zone": "right",
+      "right_space": {
+        "phrase": "1",
+        "left": 0.913725,
+        "top": 0.965632,
+        "width": 0.026667,
+        "height": 0.006652,
+        "font_group": "main"
+      },
+      "bottom_space": {
+        "phrase": "1",
+        "left": 0.910196,
+        "top": 0.972284,
+        "width": 0.030196,
+        "height": 0.000277,
+        "gap_px": 1.0,
+        "font_group": "main"
+      }
+    }
+  ]
+}

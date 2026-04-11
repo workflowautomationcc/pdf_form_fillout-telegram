@@ -1,0 +1,33 @@
+{
+  "document_type": "General Company Information",
+  "company": {
+    "name": "Brightline Trading & Supplies Ltd"
+  },
+  "website": "www.brightlinetrading.com",
+  "contact": {
+    "name": "Chukwuemeka Obi",
+    "job_title": "Managing Director",
+    "email": "c.obi@brightlinetrading.com"
+  },
+  "corporate_structure": {
+    "parent_company": "N/A",
+    "subsidiaries": [],
+    "affiliates": [],
+    "owners_principals": [
+      {
+        "name": "Chukwuemeka Obi",
+        "role": "Managing Director",
+        "ownership_pct": 60
+      },
+      {
+        "name": "Adaeze Obi",
+        "role": "Director",
+        "ownership_pct": 40
+      }
+    ]
+  },
+  "international_offices": [],
+  "employees": {
+    "full_time": 14
+  }
+}

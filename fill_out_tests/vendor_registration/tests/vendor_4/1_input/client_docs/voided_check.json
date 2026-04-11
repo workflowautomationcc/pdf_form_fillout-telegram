@@ -1,0 +1,19 @@
+{
+  "document_type": "Voided Check",
+  "company": {
+    "name": "Brightline Trading & Supplies Ltd"
+  },
+  "bank": {
+    "name": "JPMorgan Chase Bank",
+    "branch": "Wilmington Main Branch",
+    "branch_code": "0152",
+    "address": "500 Delaware Avenue, Wilmington, DE 19801",
+    "routing_number": "021000021"
+  },
+  "account": {
+    "account_name": "Brightline Trading & Supplies Ltd",
+    "account_number": "7823004419",
+    "account_type": "Business Checking",
+    "currency": "USD"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "document_type": "Tax Return",
+  "group": "05_tax_documents",
+  "provides": {
+    "company_name": "taxpayer.name",
+    "ein": "taxpayer.ein",
+    "entity_type": "taxpayer.entity_type",
+    "street_address": "taxpayer.address.street",
+    "city": "taxpayer.address.city",
+    "state": "taxpayer.address.state",
+    "zip": "taxpayer.address.zip",
+    "tax_year": "tax_year",
+    "gross_receipts": "financials.gross_receipts",
+    "net_income": "financials.net_income"
+  }
+}

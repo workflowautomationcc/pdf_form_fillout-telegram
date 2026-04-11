@@ -1,0 +1,495 @@
+{
+  "_description": "Maps canonical keys to form label synonyms. Used to match OCR'd form field labels to canonical keys. No source paths or values here — just keywords.",
+
+  "company_name": [
+    "company name", "full legal name", "legal name", "business name",
+    "vendor name", "organization name", "organisation name", "firm name",
+    "company full name", "company name full legal name", "registered name",
+    "name of company", "name of business", "name of organization"
+  ],
+
+  "street_address": [
+    "street address", "street", "address", "mailing address", "physical address",
+    "registered address", "office address", "business address", "company address",
+    "street and number"
+  ],
+
+  "city": [
+    "city", "town", "municipality", "city/town", "city or town"
+  ],
+
+  "state": [
+    "state", "province", "region", "state/province", "state or province"
+  ],
+
+  "country": [
+    "country", "nation", "country of registration", "country of incorporation",
+    "country of formation"
+  ],
+
+  "zip": [
+    "zip", "zip code", "postal code", "postcode", "post code", "p/code", "zip/postal code"
+  ],
+
+  "tel": [
+    "tel", "telephone", "phone", "phone number", "telephone number",
+    "contact number", "mobile", "cell", "tel.", "office phone", "business phone"
+  ],
+
+  "fax": [
+    "fax", "fax number", "facsimile", "fax no", "fax no."
+  ],
+
+  "email": [
+    "email", "e-mail", "email address", "e-mail address", "electronic mail"
+  ],
+
+  "website": [
+    "website", "web site", "url", "web address", "company website", "homepage", "www"
+  ],
+
+  "ein": [
+    "ein", "employer identification number", "federal tax id", "federal id number",
+    "federal employer identification number", "fein"
+  ],
+
+  "ssn": [
+    "ssn", "social security number", "social security no", "ss number"
+  ],
+
+  "entity_type": [
+    "entity type", "type of entity", "legal entity", "company type",
+    "type of company", "form of organization", "organizational type"
+  ],
+
+  "type_of_business": [
+    "type of business", "business type", "type of company", "kind of business"
+  ],
+
+  "nature_of_business": [
+    "nature of business", "business activity", "business description",
+    "line of business", "industry", "sector", "type of services", "services provided",
+    "business nature"
+  ],
+
+  "year_established": [
+    "year established", "year founded", "founded", "incorporated",
+    "date of incorporation", "year of incorporation", "established", "year of formation",
+    "year established1"
+  ],
+
+  "employees": [
+    "number of employees", "full time employees", "no. of employees",
+    "staff count", "headcount", "number of full time employees", "employees"
+  ],
+
+  "parent_company": [
+    "parent company", "parent company full legal name", "holding company",
+    "parent organization", "parent organisation"
+  ],
+
+  "international_offices": [
+    "international offices", "international representation", "offices",
+    "representation", "countries where the company has local offices"
+  ],
+
+  "vat_number": [
+    "vat no", "vat number", "vat no.", "taxl.d", "tax identification",
+    "vat/tax id", "vat no./taxl.d"
+  ],
+
+  "date_of_incorporation": [
+    "date of incorporation", "incorporation date", "formation date",
+    "date of formation", "date established", "date founded"
+  ],
+
+  "state_of_formation": [
+    "state of formation", "state of incorporation", "state incorporated",
+    "registered state", "state of registration"
+  ],
+
+  "dba_name": [
+    "dba", "doing business as", "trade name", "trading as", "assumed name",
+    "fictitious name", "dba name"
+  ],
+
+  "file_number": [
+    "file number", "filing number", "state file number", "corporate file number",
+    "entity number"
+  ],
+
+  "owners_principals": [
+    "owners and principals", "names of owners", "principals", "owner name",
+    "owners", "managing members", "controlling interests", "ceo", "managing director",
+    "partners", "subsidiaries", "affiliates"
+  ],
+
+  "registered_agent_name": [
+    "registered agent", "registered agent name", "agent name", "agent for service"
+  ],
+
+  "registered_agent_address": [
+    "registered agent address", "agent address"
+  ],
+
+  "signatory_name": [
+    "signatory name", "authorized signatory", "signature name", "signed by",
+    "authorized representative", "authorized person", "name of signatory",
+    "representative name", "contact name", "contact person", "contact"
+  ],
+
+  "signatory_title": [
+    "title", "job title", "position", "designation", "role",
+    "signatory title", "authorized title"
+  ],
+
+  "signatory_date": [
+    "date", "signature date", "signed date", "date signed", "date of signature"
+  ],
+
+  "licence_number": [
+    "licence no", "license no", "licence number", "license number",
+    "licence no.", "license no.", "registration number", "licence no./state where registered",
+    "license #"
+  ],
+
+  "licence_state": [
+    "state where registered", "state of registration", "license state",
+    "licence state", "registered state"
+  ],
+
+  "licence_expiry": [
+    "validity date", "expiry date", "expiry", "valid until", "valid to",
+    "license expiry", "licence expiry", "expiration date", "expires"
+  ],
+
+  "licence_class": [
+    "license class", "licence class", "class", "license type", "licence type"
+  ],
+
+  "permit_number": [
+    "permit number", "permit no", "permit no."
+  ],
+
+  "permit_type": [
+    "permit type", "type of permit"
+  ],
+
+  "permit_state": [
+    "permit state", "state of permit"
+  ],
+
+  "permit_expiry": [
+    "permit expiry", "permit expiration", "permit valid until"
+  ],
+
+  "registration_number": [
+    "registration number", "reg number", "reg no", "registration no"
+  ],
+
+  "registration_date": [
+    "registration date", "date of registration", "registered date"
+  ],
+
+  "registration_state": [
+    "registration state", "state of registration"
+  ],
+
+  "registration_expiry": [
+    "registration expiry", "registration expiration", "registration valid until"
+  ],
+
+  "bank_name": [
+    "bank name", "bank", "financial institution", "name of bank",
+    "bank name and bank id", "bank name and bank id if any", "depository"
+  ],
+
+  "bank_id": [
+    "bank id", "routing number", "bank code", "sort code", "aba number",
+    "aba routing number", "routing no"
+  ],
+
+  "branch_name": [
+    "branch name", "branch", "bank branch", "branch name and branch code"
+  ],
+
+  "branch_code": [
+    "branch code", "branch no", "branch number"
+  ],
+
+  "branch_address": [
+    "branch address", "bank address", "branch street address"
+  ],
+
+  "account_number": [
+    "account number", "bank account number", "account no", "account no.",
+    "acc number", "acct number", "account #"
+  ],
+
+  "account_name": [
+    "account name", "account holder", "account holder name", "name on account"
+  ],
+
+  "account_currency": [
+    "account currency", "currency", "bank currency"
+  ],
+
+  "insurer_name": [
+    "insurer", "insurer name", "insurance company", "insurance provider",
+    "carrier", "underwriter"
+  ],
+
+  "policy_number": [
+    "policy number", "policy no", "policy no.", "policy #", "insurance policy number"
+  ],
+
+  "policy_expiry": [
+    "policy expiry", "policy expiration", "coverage expiry", "valid through",
+    "policy period end"
+  ],
+
+  "coverage_type": [
+    "coverage type", "type of coverage", "coverage", "insurance type"
+  ],
+
+  "coverage_limit": [
+    "coverage limit", "limit of liability", "policy limit", "aggregate limit",
+    "each occurrence"
+  ],
+
+  "person_name": [
+    "name", "full name", "person name", "individual name"
+  ],
+
+  "person_first_name": [
+    "first name", "given name", "forename"
+  ],
+
+  "person_last_name": [
+    "last name", "surname", "family name"
+  ],
+
+  "person_dob": [
+    "date of birth", "dob", "birth date", "born"
+  ],
+
+  "person_nationality": [
+    "nationality", "citizenship", "country of birth"
+  ],
+
+  "passport_number": [
+    "passport number", "passport no", "passport no."
+  ],
+
+  "passport_expiry": [
+    "passport expiry", "passport expiration", "passport valid until"
+  ],
+
+  "passport_country": [
+    "passport country", "country of passport", "issuing country"
+  ],
+
+  "id_number": [
+    "id number", "id no", "identification number", "state id number"
+  ],
+
+  "id_state": [
+    "id state", "state of id", "issuing state"
+  ],
+
+  "id_expiry": [
+    "id expiry", "id expiration"
+  ],
+
+  "employee_name": [
+    "employee name", "employee", "worker name", "staff name"
+  ],
+
+  "employee_dob": [
+    "employee date of birth", "employee dob"
+  ],
+
+  "citizenship_status": [
+    "citizenship status", "work authorization", "eligibility"
+  ],
+
+  "filing_status": [
+    "filing status", "tax filing status", "marital status for tax"
+  ],
+
+  "start_date": [
+    "start date", "employment start", "hire date", "commencement date"
+  ],
+
+  "effective_date": [
+    "effective date", "agreement date", "contract date", "date effective"
+  ],
+
+  "expiry_date": [
+    "expiry date", "expiration date", "end date", "termination date", "valid until"
+  ],
+
+  "certification_name": [
+    "certification", "certificate name", "certification type", "name of certification"
+  ],
+
+  "certification_number": [
+    "certification number", "certificate number", "cert no", "cert no."
+  ],
+
+  "certification_issuer": [
+    "issued by", "issuer", "certifying body", "issuing authority"
+  ],
+
+  "certification_date": [
+    "certification date", "issue date", "date issued", "date of issue"
+  ],
+
+  "certification_expiry": [
+    "certification expiry", "certificate expiry", "cert expiration"
+  ],
+
+  "dot_number": [
+    "dot number", "dot no", "usdot number", "usdot"
+  ],
+
+  "mc_number": [
+    "mc number", "mc no", "motor carrier number", "operating authority"
+  ],
+
+  "vehicle_vin": [
+    "vin", "vehicle identification number", "vin number"
+  ],
+
+  "vehicle_make": [
+    "make", "vehicle make", "manufacturer"
+  ],
+
+  "vehicle_model": [
+    "model", "vehicle model"
+  ],
+
+  "vehicle_year": [
+    "year", "vehicle year", "model year"
+  ],
+
+  "vehicle_plate": [
+    "plate number", "license plate", "plate no", "tag number"
+  ],
+
+  "title_number": [
+    "title number", "title no"
+  ],
+
+  "title_state": [
+    "title state", "state of title"
+  ],
+
+  "equipment_description": [
+    "equipment description", "description of equipment", "equipment"
+  ],
+
+  "equipment_serial": [
+    "serial number", "serial no", "equipment serial"
+  ],
+
+  "equipment_make": [
+    "equipment make", "make of equipment"
+  ],
+
+  "equipment_model": [
+    "equipment model", "model of equipment"
+  ],
+
+  "equipment_year": [
+    "equipment year", "year of equipment"
+  ],
+
+  "sale_date": [
+    "sale date", "date of sale", "purchase date"
+  ],
+
+  "sale_price": [
+    "sale price", "purchase price", "amount", "total amount"
+  ],
+
+  "invoice_number": [
+    "invoice number", "invoice no", "invoice #"
+  ],
+
+  "invoice_date": [
+    "invoice date", "date of invoice"
+  ],
+
+  "invoice_total": [
+    "invoice total", "total", "amount due", "total amount"
+  ],
+
+  "receipt_number": [
+    "receipt number", "receipt no"
+  ],
+
+  "receipt_date": [
+    "receipt date", "date of receipt"
+  ],
+
+  "receipt_total": [
+    "receipt total", "amount paid"
+  ],
+
+  "po_number": [
+    "po number", "purchase order number", "po no", "p.o. number"
+  ],
+
+  "po_date": [
+    "po date", "purchase order date"
+  ],
+
+  "po_total": [
+    "po total", "purchase order total"
+  ],
+
+  "tax_year": [
+    "tax year", "fiscal year", "year"
+  ],
+
+  "tax_classification": [
+    "tax classification", "federal tax classification", "tax type"
+  ],
+
+  "gross_receipts": [
+    "gross receipts", "gross revenue", "total revenue", "gross income"
+  ],
+
+  "net_income": [
+    "net income", "net profit", "net earnings"
+  ],
+
+  "nonemployee_compensation": [
+    "nonemployee compensation", "non-employee compensation", "contract payments"
+  ],
+
+  "lease_start": [
+    "lease start", "lease commencement", "tenancy start"
+  ],
+
+  "lease_end": [
+    "lease end", "lease expiry", "tenancy end"
+  ],
+
+  "statement_date": [
+    "statement date", "date of statement"
+  ],
+
+  "bill_date": [
+    "bill date", "billing date", "date of bill"
+  ],
+
+  "owner_name": [
+    "owner name", "property owner", "owner"
+  ],
+
+  "profession": [
+    "profession", "trade", "specialty", "field of work"
+  ]
+}

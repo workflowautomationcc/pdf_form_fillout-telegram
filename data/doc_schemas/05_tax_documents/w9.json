@@ -1,0 +1,17 @@
+{
+  "document_type": "W-9",
+  "group": "05_tax_documents",
+  "provides": {
+    "company_name": "taxpayer.name",
+    "dba_name": "taxpayer.dba_name",
+    "entity_type": "taxpayer.entity_type",
+    "ein": "tax.ein",
+    "ssn": "tax.ssn",
+    "street_address": "address.street",
+    "city": "address.city",
+    "state": "address.state",
+    "zip": "address.zip",
+    "signatory_name": "signature.name",
+    "signatory_date": "signature.date"
+  }
+}

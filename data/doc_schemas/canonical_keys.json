@@ -1,0 +1,852 @@
+{
+  "_description": "Master list of all canonical field keys across all document types. Every key here can be provided by at least one document schema.",
+  "total": 107,
+  "keys": {
+    "account_currency": {
+      "provided_by": [
+        "Bank Letter",
+        "Bank Statement",
+        "Voided Check"
+      ]
+    },
+    "account_name": {
+      "provided_by": [
+        "Bank Letter",
+        "Bank Statement",
+        "Voided Check"
+      ]
+    },
+    "account_number": {
+      "provided_by": [
+        "Bank Letter",
+        "Bank Statement",
+        "Voided Check",
+        "Utility Bill",
+        "Invoice"
+      ]
+    },
+    "bank_id": {
+      "provided_by": [
+        "Bank Letter",
+        "Voided Check"
+      ]
+    },
+    "bank_name": {
+      "provided_by": [
+        "Bank Letter",
+        "Bank Statement",
+        "Voided Check",
+        "Bank Statement (Address Proof)"
+      ]
+    },
+    "bill_date": {
+      "provided_by": [
+        "Utility Bill"
+      ]
+    },
+    "branch_address": {
+      "provided_by": [
+        "Bank Letter",
+        "Bank Statement",
+        "Voided Check"
+      ]
+    },
+    "branch_code": {
+      "provided_by": [
+        "Bank Letter",
+        "Voided Check"
+      ]
+    },
+    "branch_name": {
+      "provided_by": [
+        "Bank Letter",
+        "Voided Check"
+      ]
+    },
+    "certification_date": {
+      "provided_by": [
+        "Professional Certification",
+        "ISO Certification",
+        "OSHA Safety Certificate",
+        "Training Certificate"
+      ]
+    },
+    "certification_expiry": {
+      "provided_by": [
+        "Professional Certification",
+        "ISO Certification",
+        "OSHA Safety Certificate",
+        "Training Certificate"
+      ]
+    },
+    "certification_issuer": {
+      "provided_by": [
+        "Professional Certification",
+        "ISO Certification",
+        "OSHA Safety Certificate",
+        "Training Certificate"
+      ]
+    },
+    "certification_name": {
+      "provided_by": [
+        "Professional Certification",
+        "ISO Certification",
+        "OSHA Safety Certificate",
+        "Training Certificate"
+      ]
+    },
+    "certification_number": {
+      "provided_by": [
+        "Professional Certification",
+        "ISO Certification",
+        "OSHA Safety Certificate",
+        "Training Certificate"
+      ]
+    },
+    "citizenship_status": {
+      "provided_by": [
+        "I-9"
+      ]
+    },
+    "city": {
+      "provided_by": [
+        "Certificate of Formation",
+        "DBA Filing",
+        "EIN Assignment Letter",
+        "State Business Registration Certificate",
+        "Business License",
+        "Permit",
+        "Auto Insurance Declaration",
+        "Certificate of Insurance",
+        "General Liability Declaration",
+        "Workers Compensation Certificate",
+        "Bank Letter",
+        "Bank Statement",
+        "1099-NEC",
+        "Tax Return",
+        "W-9",
+        "Master Service Agreement",
+        "NDA",
+        "Service Contract",
+        "Vendor Agreement",
+        "Driver License",
+        "I-9",
+        "W-4",
+        "DOT/FMCSA Compliance",
+        "ISO Certification",
+        "Bank Statement (Address Proof)",
+        "Commercial Lease Agreement",
+        "Utility Bill",
+        "DOT Registration",
+        "Equipment Bill of Sale",
+        "Vehicle Registration",
+        "Vehicle Title",
+        "Invoice",
+        "Purchase Order",
+        "Receipt",
+        "Personal Driver License",
+        "State ID"
+      ]
+    },
+    "company_name": {
+      "provided_by": [
+        "Certificate of Formation",
+        "DBA Filing",
+        "EIN Assignment Letter",
+        "Operating Agreement",
+        "State Business Registration Certificate",
+        "Business License",
+        "Contractor License",
+        "Permit",
+        "Professional License",
+        "Auto Insurance Declaration",
+        "Certificate of Insurance",
+        "General Liability Declaration",
+        "Workers Compensation Certificate",
+        "Bank Letter",
+        "Bank Statement",
+        "1099-NEC",
+        "Tax Return",
+        "W-9",
+        "Master Service Agreement",
+        "NDA",
+        "Service Contract",
+        "Vendor Agreement",
+        "I-9",
+        "W-4",
+        "DOT/FMCSA Compliance",
+        "ISO Certification",
+        "OSHA Safety Certificate",
+        "Training Certificate",
+        "Bank Statement (Address Proof)",
+        "Commercial Lease Agreement",
+        "Utility Bill",
+        "DOT Registration",
+        "Equipment Bill of Sale",
+        "Vehicle Registration",
+        "Vehicle Title",
+        "Invoice",
+        "Purchase Order",
+        "Receipt"
+      ]
+    },
+    "country": {
+      "provided_by": [
+        "Certificate of Formation",
+        "EIN Assignment Letter"
+      ]
+    },
+    "coverage_limit": {
+      "provided_by": [
+        "Auto Insurance Declaration",
+        "Certificate of Insurance",
+        "General Liability Declaration",
+        "Workers Compensation Certificate"
+      ]
+    },
+    "coverage_type": {
+      "provided_by": [
+        "Certificate of Insurance"
+      ]
+    },
+    "date_of_incorporation": {
+      "provided_by": [
+        "Certificate of Formation",
+        "Operating Agreement"
+      ]
+    },
+    "dba_name": {
+      "provided_by": [
+        "DBA Filing",
+        "W-9"
+      ]
+    },
+    "dot_number": {
+      "provided_by": [
+        "DOT/FMCSA Compliance",
+        "DOT Registration"
+      ]
+    },
+    "effective_date": {
+      "provided_by": [
+        "Master Service Agreement",
+        "NDA",
+        "Service Contract",
+        "Vendor Agreement"
+      ]
+    },
+    "ein": {
+      "provided_by": [
+        "EIN Assignment Letter",
+        "1099-NEC",
+        "Tax Return",
+        "W-9",
+        "W-4"
+      ]
+    },
+    "email": {
+      "provided_by": [
+        "DOT/FMCSA Compliance",
+        "Invoice",
+        "Purchase Order"
+      ]
+    },
+    "employee_dob": {
+      "provided_by": [
+        "I-9"
+      ]
+    },
+    "employee_name": {
+      "provided_by": [
+        "I-9",
+        "W-4"
+      ]
+    },
+    "entity_type": {
+      "provided_by": [
+        "Certificate of Formation",
+        "Operating Agreement",
+        "State Business Registration Certificate",
+        "Tax Return",
+        "W-9"
+      ]
+    },
+    "equipment_description": {
+      "provided_by": [
+        "Equipment Bill of Sale"
+      ]
+    },
+    "equipment_make": {
+      "provided_by": [
+        "Equipment Bill of Sale"
+      ]
+    },
+    "equipment_model": {
+      "provided_by": [
+        "Equipment Bill of Sale"
+      ]
+    },
+    "equipment_serial": {
+      "provided_by": [
+        "Equipment Bill of Sale"
+      ]
+    },
+    "equipment_year": {
+      "provided_by": [
+        "Equipment Bill of Sale"
+      ]
+    },
+    "expiry_date": {
+      "provided_by": [
+        "State Business Registration Certificate",
+        "Master Service Agreement",
+        "Service Contract",
+        "Vendor Agreement"
+      ]
+    },
+    "file_number": {
+      "provided_by": [
+        "Certificate of Formation"
+      ]
+    },
+    "filing_status": {
+      "provided_by": [
+        "W-4"
+      ]
+    },
+    "gross_receipts": {
+      "provided_by": [
+        "Tax Return"
+      ]
+    },
+    "id_expiry": {
+      "provided_by": [
+        "State ID"
+      ]
+    },
+    "id_number": {
+      "provided_by": [
+        "State ID"
+      ]
+    },
+    "id_state": {
+      "provided_by": [
+        "State ID"
+      ]
+    },
+    "insurer_name": {
+      "provided_by": [
+        "Auto Insurance Declaration",
+        "Certificate of Insurance",
+        "General Liability Declaration",
+        "Workers Compensation Certificate"
+      ]
+    },
+    "invoice_date": {
+      "provided_by": [
+        "Invoice"
+      ]
+    },
+    "invoice_number": {
+      "provided_by": [
+        "Invoice"
+      ]
+    },
+    "invoice_total": {
+      "provided_by": [
+        "Invoice"
+      ]
+    },
+    "lease_end": {
+      "provided_by": [
+        "Commercial Lease Agreement"
+      ]
+    },
+    "lease_start": {
+      "provided_by": [
+        "Commercial Lease Agreement"
+      ]
+    },
+    "licence_class": {
+      "provided_by": [
+        "Contractor License",
+        "Professional License",
+        "Driver License",
+        "Personal Driver License"
+      ]
+    },
+    "licence_expiry": {
+      "provided_by": [
+        "Business License",
+        "Contractor License",
+        "Professional License",
+        "Driver License",
+        "Personal Driver License"
+      ]
+    },
+    "licence_number": {
+      "provided_by": [
+        "Business License",
+        "Contractor License",
+        "Professional License",
+        "Driver License",
+        "Personal Driver License"
+      ]
+    },
+    "licence_state": {
+      "provided_by": [
+        "Business License",
+        "Contractor License",
+        "Professional License",
+        "Driver License",
+        "Personal Driver License"
+      ]
+    },
+    "mc_number": {
+      "provided_by": [
+        "DOT/FMCSA Compliance",
+        "DOT Registration"
+      ]
+    },
+    "nature_of_business": {
+      "provided_by": [
+        "Certificate of Formation",
+        "Business License"
+      ]
+    },
+    "net_income": {
+      "provided_by": [
+        "Tax Return"
+      ]
+    },
+    "nonemployee_compensation": {
+      "provided_by": [
+        "1099-NEC"
+      ]
+    },
+    "owner_name": {
+      "provided_by": [
+        "DBA Filing"
+      ]
+    },
+    "owners_principals": {
+      "provided_by": [
+        "Operating Agreement"
+      ]
+    },
+    "passport_country": {
+      "provided_by": [
+        "Passport"
+      ]
+    },
+    "passport_expiry": {
+      "provided_by": [
+        "Passport"
+      ]
+    },
+    "passport_number": {
+      "provided_by": [
+        "Passport"
+      ]
+    },
+    "permit_expiry": {
+      "provided_by": [
+        "Permit"
+      ]
+    },
+    "permit_number": {
+      "provided_by": [
+        "Permit"
+      ]
+    },
+    "permit_state": {
+      "provided_by": [
+        "Permit"
+      ]
+    },
+    "permit_type": {
+      "provided_by": [
+        "Permit"
+      ]
+    },
+    "person_dob": {
+      "provided_by": [
+        "Driver License",
+        "Passport",
+        "Personal Driver License",
+        "State ID"
+      ]
+    },
+    "person_first_name": {
+      "provided_by": [
+        "Passport",
+        "Personal Driver License",
+        "State ID"
+      ]
+    },
+    "person_last_name": {
+      "provided_by": [
+        "Passport",
+        "Personal Driver License",
+        "State ID"
+      ]
+    },
+    "person_name": {
+      "provided_by": [
+        "Driver License",
+        "Professional Certification",
+        "OSHA Safety Certificate",
+        "Training Certificate",
+        "Passport",
+        "Personal Driver License",
+        "State ID"
+      ]
+    },
+    "person_nationality": {
+      "provided_by": [
+        "Passport"
+      ]
+    },
+    "po_date": {
+      "provided_by": [
+        "Purchase Order"
+      ]
+    },
+    "po_number": {
+      "provided_by": [
+        "Purchase Order"
+      ]
+    },
+    "po_total": {
+      "provided_by": [
+        "Purchase Order"
+      ]
+    },
+    "policy_expiry": {
+      "provided_by": [
+        "Auto Insurance Declaration",
+        "Certificate of Insurance",
+        "General Liability Declaration",
+        "Workers Compensation Certificate"
+      ]
+    },
+    "policy_number": {
+      "provided_by": [
+        "Auto Insurance Declaration",
+        "Certificate of Insurance",
+        "General Liability Declaration",
+        "Workers Compensation Certificate"
+      ]
+    },
+    "profession": {
+      "provided_by": [
+        "Professional License"
+      ]
+    },
+    "receipt_date": {
+      "provided_by": [
+        "Receipt"
+      ]
+    },
+    "receipt_number": {
+      "provided_by": [
+        "Receipt"
+      ]
+    },
+    "receipt_total": {
+      "provided_by": [
+        "Receipt"
+      ]
+    },
+    "registered_agent_address": {
+      "provided_by": [
+        "Certificate of Formation"
+      ]
+    },
+    "registered_agent_name": {
+      "provided_by": [
+        "Certificate of Formation"
+      ]
+    },
+    "registration_date": {
+      "provided_by": [
+        "DBA Filing",
+        "State Business Registration Certificate"
+      ]
+    },
+    "registration_expiry": {
+      "provided_by": [
+        "Vehicle Registration"
+      ]
+    },
+    "registration_number": {
+      "provided_by": [
+        "DBA Filing",
+        "State Business Registration Certificate"
+      ]
+    },
+    "registration_state": {
+      "provided_by": [
+        "DBA Filing",
+        "State Business Registration Certificate",
+        "Vehicle Registration"
+      ]
+    },
+    "sale_date": {
+      "provided_by": [
+        "Equipment Bill of Sale"
+      ]
+    },
+    "sale_price": {
+      "provided_by": [
+        "Equipment Bill of Sale"
+      ]
+    },
+    "signatory_date": {
+      "provided_by": [
+        "W-9",
+        "Master Service Agreement",
+        "NDA",
+        "Service Contract",
+        "Vendor Agreement"
+      ]
+    },
+    "signatory_name": {
+      "provided_by": [
+        "Certificate of Formation",
+        "Operating Agreement",
+        "Contractor License",
+        "Professional License",
+        "W-9",
+        "Master Service Agreement",
+        "NDA",
+        "Service Contract",
+        "Vendor Agreement",
+        "Commercial Lease Agreement"
+      ]
+    },
+    "signatory_title": {
+      "provided_by": [
+        "Certificate of Formation",
+        "Operating Agreement",
+        "Master Service Agreement",
+        "NDA",
+        "Service Contract",
+        "Vendor Agreement",
+        "Commercial Lease Agreement"
+      ]
+    },
+    "ssn": {
+      "provided_by": [
+        "1099-NEC",
+        "W-9",
+        "I-9",
+        "W-4"
+      ]
+    },
+    "start_date": {
+      "provided_by": [
+        "I-9"
+      ]
+    },
+    "state": {
+      "provided_by": [
+        "Certificate of Formation",
+        "DBA Filing",
+        "EIN Assignment Letter",
+        "State Business Registration Certificate",
+        "Business License",
+        "Permit",
+        "Auto Insurance Declaration",
+        "Certificate of Insurance",
+        "General Liability Declaration",
+        "Workers Compensation Certificate",
+        "Bank Letter",
+        "Bank Statement",
+        "1099-NEC",
+        "Tax Return",
+        "W-9",
+        "Master Service Agreement",
+        "NDA",
+        "Service Contract",
+        "Vendor Agreement",
+        "Driver License",
+        "I-9",
+        "W-4",
+        "DOT/FMCSA Compliance",
+        "ISO Certification",
+        "Bank Statement (Address Proof)",
+        "Commercial Lease Agreement",
+        "Utility Bill",
+        "DOT Registration",
+        "Equipment Bill of Sale",
+        "Vehicle Registration",
+        "Vehicle Title",
+        "Invoice",
+        "Purchase Order",
+        "Receipt",
+        "Personal Driver License",
+        "State ID"
+      ]
+    },
+    "state_of_formation": {
+      "provided_by": [
+        "Certificate of Formation",
+        "Operating Agreement"
+      ]
+    },
+    "statement_date": {
+      "provided_by": [
+        "Bank Statement (Address Proof)"
+      ]
+    },
+    "street_address": {
+      "provided_by": [
+        "Certificate of Formation",
+        "DBA Filing",
+        "EIN Assignment Letter",
+        "State Business Registration Certificate",
+        "Business License",
+        "Permit",
+        "Auto Insurance Declaration",
+        "Certificate of Insurance",
+        "General Liability Declaration",
+        "Workers Compensation Certificate",
+        "Bank Letter",
+        "Bank Statement",
+        "1099-NEC",
+        "Tax Return",
+        "W-9",
+        "Master Service Agreement",
+        "NDA",
+        "Service Contract",
+        "Vendor Agreement",
+        "Driver License",
+        "I-9",
+        "W-4",
+        "DOT/FMCSA Compliance",
+        "ISO Certification",
+        "Bank Statement (Address Proof)",
+        "Commercial Lease Agreement",
+        "Utility Bill",
+        "DOT Registration",
+        "Equipment Bill of Sale",
+        "Vehicle Registration",
+        "Vehicle Title",
+        "Invoice",
+        "Purchase Order",
+        "Receipt",
+        "Personal Driver License",
+        "State ID"
+      ]
+    },
+    "tax_classification": {
+      "provided_by": [
+        "EIN Assignment Letter"
+      ]
+    },
+    "tax_year": {
+      "provided_by": [
+        "1099-NEC",
+        "Tax Return"
+      ]
+    },
+    "tel": {
+      "provided_by": [
+        "DOT/FMCSA Compliance",
+        "DOT Registration",
+        "Invoice",
+        "Purchase Order",
+        "Receipt"
+      ]
+    },
+    "title_number": {
+      "provided_by": [
+        "Vehicle Title"
+      ]
+    },
+    "title_state": {
+      "provided_by": [
+        "Vehicle Title"
+      ]
+    },
+    "vehicle_make": {
+      "provided_by": [
+        "Auto Insurance Declaration",
+        "Vehicle Registration",
+        "Vehicle Title"
+      ]
+    },
+    "vehicle_model": {
+      "provided_by": [
+        "Auto Insurance Declaration",
+        "Vehicle Registration",
+        "Vehicle Title"
+      ]
+    },
+    "vehicle_plate": {
+      "provided_by": [
+        "Vehicle Registration"
+      ]
+    },
+    "vehicle_vin": {
+      "provided_by": [
+        "Auto Insurance Declaration",
+        "Vehicle Registration",
+        "Vehicle Title"
+      ]
+    },
+    "vehicle_year": {
+      "provided_by": [
+        "Auto Insurance Declaration",
+        "Vehicle Registration",
+        "Vehicle Title"
+      ]
+    },
+    "year_established": {
+      "provided_by": [
+        "Certificate of Formation"
+      ]
+    },
+    "zip": {
+      "provided_by": [
+        "Certificate of Formation",
+        "DBA Filing",
+        "EIN Assignment Letter",
+        "State Business Registration Certificate",
+        "Business License",
+        "Permit",
+        "Auto Insurance Declaration",
+        "Certificate of Insurance",
+        "General Liability Declaration",
+        "Workers Compensation Certificate",
+        "Bank Letter",
+        "Bank Statement",
+        "1099-NEC",
+        "Tax Return",
+        "W-9",
+        "Master Service Agreement",
+        "NDA",
+        "Service Contract",
+        "Vendor Agreement",
+        "Driver License",
+        "I-9",
+        "W-4",
+        "DOT/FMCSA Compliance",
+        "ISO Certification",
+        "Bank Statement (Address Proof)",
+        "Commercial Lease Agreement",
+        "Utility Bill",
+        "DOT Registration",
+        "Equipment Bill of Sale",
+        "Vehicle Registration",
+        "Vehicle Title",
+        "Invoice",
+        "Purchase Order",
+        "Receipt",
+        "Personal Driver License",
+        "State ID"
+      ]
+    }
+  }
+}

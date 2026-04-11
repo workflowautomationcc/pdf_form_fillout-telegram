@@ -1,0 +1,15 @@
+{
+  "document_type": "General Liability Declaration",
+  "group": "03_insurance",
+  "provides": {
+    "company_name": "insured.name",
+    "street_address": "insured.address.street",
+    "city": "insured.address.city",
+    "state": "insured.address.state",
+    "zip": "insured.address.zip",
+    "insurer_name": "insurer.name",
+    "policy_number": "policy.number",
+    "policy_expiry": "policy.expiry_date",
+    "coverage_limit": "policy.coverage_limit"
+  }
+}

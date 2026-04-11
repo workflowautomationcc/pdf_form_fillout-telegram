@@ -19,7 +19,7 @@ TIER3_DIR = BASE / "2_process" / "tier3"
 
 FRIENDSHIP = {
     "tiny":  50,
-    "main":  60,
+    "main":  100,
     "large": 80,
     "giant": 110,
     "other": 0,

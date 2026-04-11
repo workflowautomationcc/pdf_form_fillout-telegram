@@ -77,6 +77,59 @@ def run(page="page_1"):
 
             union(li, ri)
 
+    # Extra rules: always merge on same line if:
+    #   1. left word is a number
+    #   2. either word ends/starts with hyphen
+    words_by_top = sorted(range(n), key=lambda i: (round(words[i]["top"], 3), words[i]["left"]))
+    for idx, i in enumerate(words_by_top[:-1]):
+        w = words[i]
+        is_number  = w["text"].replace(".", "").replace(",", "").isdigit()
+        ends_hyphen = w["text"].endswith("-")
+        if not (is_number or ends_hyphen):
+            continue
+        for j in words_by_top[idx + 1:]:
+            wj = words[j]
+            if abs(wj["top"] - w["top"]) > w["height"]:
+                break
+            if wj["left"] > w["left"] + w["width"]:
+                union(i, j)
+                break
+
+    # Also merge if right word starts with hyphen
+    for idx, i in enumerate(words_by_top[1:], 1):
+        w = words[i]
+        if not w["text"].startswith("-"):
+            continue
+        for j in words_by_top[idx - 1::-1]:
+            wj = words[j]
+            if abs(wj["top"] - w["top"]) > w["height"]:
+                break
+            if wj["left"] + wj["width"] < w["left"]:
+                union(i, j)
+                break
+
+    # Merge standalone hyphen token with neighbors on same line (word - word)
+    for idx, i in enumerate(words_by_top):
+        w = words[i]
+        if w["text"].strip() != "-":
+            continue
+        # merge with word to the left
+        for j in words_by_top[idx - 1::-1]:
+            wj = words[j]
+            if abs(wj["top"] - w["top"]) > w["height"]:
+                break
+            if wj["left"] + wj["width"] <= w["left"]:
+                union(i, j)
+                break
+        # merge with word to the right
+        for j in words_by_top[idx + 1:]:
+            wj = words[j]
+            if abs(wj["top"] - w["top"]) > w["height"]:
+                break
+            if wj["left"] >= w["left"] + w["width"]:
+                union(i, j)
+                break
+
     # Group words by root
     from collections import defaultdict
     groups_map = defaultdict(list)

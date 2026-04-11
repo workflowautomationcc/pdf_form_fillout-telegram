@@ -1,0 +1,18 @@
+{
+  "document_type": "Equipment Bill of Sale",
+  "group": "10_vehicle_equipment",
+  "provides": {
+    "company_name": "buyer.name",
+    "street_address": "buyer.address.street",
+    "city": "buyer.address.city",
+    "state": "buyer.address.state",
+    "zip": "buyer.address.zip",
+    "equipment_description": "equipment.description",
+    "equipment_serial": "equipment.serial_number",
+    "equipment_make": "equipment.make",
+    "equipment_model": "equipment.model",
+    "equipment_year": "equipment.year",
+    "sale_date": "sale.date",
+    "sale_price": "sale.price"
+  }
+}

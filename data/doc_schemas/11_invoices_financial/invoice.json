@@ -1,0 +1,17 @@
+{
+  "document_type": "Invoice",
+  "group": "11_invoices_financial",
+  "provides": {
+    "company_name": "vendor.name",
+    "street_address": "vendor.address.street",
+    "city": "vendor.address.city",
+    "state": "vendor.address.state",
+    "zip": "vendor.address.zip",
+    "tel": "vendor.phone",
+    "email": "vendor.email",
+    "invoice_number": "invoice.number",
+    "invoice_date": "invoice.date",
+    "invoice_total": "invoice.total",
+    "account_number": "vendor.account_number"
+  }
+}

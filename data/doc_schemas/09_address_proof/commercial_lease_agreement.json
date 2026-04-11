@@ -1,0 +1,15 @@
+{
+  "document_type": "Commercial Lease Agreement",
+  "group": "09_address_proof",
+  "provides": {
+    "company_name": "tenant.name",
+    "street_address": "property.address.street",
+    "city": "property.address.city",
+    "state": "property.address.state",
+    "zip": "property.address.zip",
+    "lease_start": "lease.start_date",
+    "lease_end": "lease.end_date",
+    "signatory_name": "tenant.signatory.name",
+    "signatory_title": "tenant.signatory.title"
+  }
+}

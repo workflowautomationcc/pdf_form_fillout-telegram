@@ -1,0 +1,14 @@
+{
+  "document_type": "Voided Check",
+  "group": "04_banking_payments",
+  "provides": {
+    "account_name": "account.name",
+    "account_number": "account.account_number",
+    "account_currency": "account.currency",
+    "bank_name": "bank.name",
+    "bank_id": "bank.routing_number",
+    "branch_name": "bank.branch",
+    "branch_code": "bank.branch_code",
+    "branch_address": "bank.address"
+  }
+}

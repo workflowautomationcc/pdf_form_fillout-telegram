@@ -1,0 +1,53 @@
+{
+  "page": "page_1",
+  "section_count": 2,
+  "matched": 1,
+  "needs_input": 1,
+  "sections": [
+    {
+      "section_header": "13. Type of Business Mark one only",
+      "canonical_key": "type_of_business",
+      "client_value": "Corporate Limited",
+      "options": [
+        "Partnership",
+        "Corporate Limited"
+      ],
+      "status": "matched",
+      "checked_option": "Corporate Limited",
+      "checked_checkbox": {
+        "x": 519.5,
+        "y": 1815.5,
+        "w": 79.0,
+        "h": 88.0,
+        "x_norm": 0.203725,
+        "y_norm": 0.503187
+      },
+      "other_write_zone": null,
+      "needs_input_prompt": null
+    },
+    {
+      "section_header": "of Business",
+      "canonical_key": null,
+      "client_value": null,
+      "options": [
+        "Consulting Company",
+        "Trader",
+        "Manufacturer",
+        "Authorised Agent"
+      ],
+      "status": "needs_input",
+      "checked_option": null,
+      "checked_checkbox": null,
+      "other_write_zone": null,
+      "needs_input_prompt": {
+        "question": "Please select the correct option for: of Business",
+        "options": [
+          "Consulting Company",
+          "Trader",
+          "Manufacturer",
+          "Authorised Agent"
+        ]
+      }
+    }
+  ]
+}

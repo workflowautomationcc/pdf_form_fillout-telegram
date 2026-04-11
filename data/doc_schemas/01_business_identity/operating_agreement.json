@@ -1,0 +1,13 @@
+{
+  "document_type": "Operating Agreement",
+  "group": "01_business_identity",
+  "provides": {
+    "company_name": "company.name",
+    "entity_type": "company.entity_type",
+    "state_of_formation": "company.state_of_formation",
+    "date_of_incorporation": "company.effective_date",
+    "owners_principals": "members",
+    "signatory_name": "authorized_signatory.name",
+    "signatory_title": "authorized_signatory.title"
+  }
+}

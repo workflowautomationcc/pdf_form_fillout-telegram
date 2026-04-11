@@ -49,12 +49,16 @@ def run(page="page_1"):
             else:
                 discarded.append({**p, "reason": "large_mid_page"})
 
-    # Bounding box
+    # Bounding box — full width, bottom extended to top of first content phrase
     if headers:
-        safe_top    = min(p["top"]  for p in headers)
-        safe_bottom = max(p["top"] + p["height"] for p in headers)
-        safe_left   = min(p["left"] for p in headers)
-        safe_right  = max(p["left"] + p["width"]  for p in headers)
+        safe_top    = 0
+        header_bottom = max(p["top"] + p["height"] for p in headers)
+        # First phrase below the header area (not a header itself)
+        content = [p for p in phrases if p not in headers and p["top"] >= header_bottom]
+        content.sort(key=lambda p: p["top"])
+        safe_bottom = content[0]["top"] if content else header_bottom
+        safe_left   = 0
+        safe_right  = 1
     else:
         safe_top = safe_bottom = safe_left = safe_right = 0
 

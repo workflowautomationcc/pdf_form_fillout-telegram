@@ -1,0 +1,16 @@
+{
+  "document_type": "Purchase Order",
+  "group": "11_invoices_financial",
+  "provides": {
+    "company_name": "buyer.name",
+    "street_address": "buyer.address.street",
+    "city": "buyer.address.city",
+    "state": "buyer.address.state",
+    "zip": "buyer.address.zip",
+    "tel": "buyer.phone",
+    "email": "buyer.email",
+    "po_number": "po.number",
+    "po_date": "po.date",
+    "po_total": "po.total"
+  }
+}

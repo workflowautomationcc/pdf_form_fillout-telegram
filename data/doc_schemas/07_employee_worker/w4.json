@@ -1,0 +1,15 @@
+{
+  "document_type": "W-4",
+  "group": "07_employee_worker",
+  "provides": {
+    "employee_name": "employee.name",
+    "ssn": "employee.ssn",
+    "street_address": "employee.address.street",
+    "city": "employee.address.city",
+    "state": "employee.address.state",
+    "zip": "employee.address.zip",
+    "filing_status": "employee.filing_status",
+    "company_name": "employer.name",
+    "ein": "employer.ein"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "document_type": "Driver License",
+  "group": "07_employee_worker",
+  "provides": {
+    "person_name": "holder.name",
+    "person_dob": "holder.date_of_birth",
+    "licence_number": "license.number",
+    "licence_state": "license.state",
+    "licence_expiry": "license.expiry_date",
+    "licence_class": "license.class",
+    "street_address": "holder.address.street",
+    "city": "holder.address.city",
+    "state": "holder.address.state",
+    "zip": "holder.address.zip"
+  }
+}

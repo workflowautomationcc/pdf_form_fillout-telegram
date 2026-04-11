@@ -1,0 +1,18 @@
+{
+  "document_type": "Vehicle Registration",
+  "group": "10_vehicle_equipment",
+  "provides": {
+    "company_name": "owner.name",
+    "street_address": "owner.address.street",
+    "city": "owner.address.city",
+    "state": "owner.address.state",
+    "zip": "owner.address.zip",
+    "vehicle_vin": "vehicle.vin",
+    "vehicle_make": "vehicle.make",
+    "vehicle_model": "vehicle.model",
+    "vehicle_year": "vehicle.year",
+    "vehicle_plate": "vehicle.plate_number",
+    "registration_expiry": "registration.expiry_date",
+    "registration_state": "registration.state"
+  }
+}

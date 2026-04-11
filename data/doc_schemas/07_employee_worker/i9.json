@@ -1,0 +1,16 @@
+{
+  "document_type": "I-9",
+  "group": "07_employee_worker",
+  "provides": {
+    "employee_name": "employee.name",
+    "employee_dob": "employee.date_of_birth",
+    "ssn": "employee.ssn",
+    "street_address": "employee.address.street",
+    "city": "employee.address.city",
+    "state": "employee.address.state",
+    "zip": "employee.address.zip",
+    "citizenship_status": "employee.citizenship_status",
+    "start_date": "employment.start_date",
+    "company_name": "employer.name"
+  }
+}

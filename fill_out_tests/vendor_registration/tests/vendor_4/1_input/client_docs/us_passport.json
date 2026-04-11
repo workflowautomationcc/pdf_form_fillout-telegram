@@ -1,0 +1,21 @@
+{
+  "document_type": "US Passport",
+  "company": {
+    "name": "Brightline Trading & Supplies Ltd"
+  },
+  "signatory": {
+    "full_name": "Chukwuemeka Obi",
+    "title": "Managing Director",
+    "date_of_birth": "1979-11-22",
+    "nationality": "United States of America",
+    "gender": "Male",
+    "place_of_birth": "Lagos, Nigeria"
+  },
+  "passport": {
+    "number": "529184736",
+    "date_issued": "2021-06-10",
+    "date_expiry": "2031-06-09",
+    "issuing_authority": "U.S. Department of State",
+    "place_of_issue": "New York, NY"
+  }
+}

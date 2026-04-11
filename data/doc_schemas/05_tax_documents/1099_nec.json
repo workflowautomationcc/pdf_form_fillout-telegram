@@ -1,0 +1,15 @@
+{
+  "document_type": "1099-NEC",
+  "group": "05_tax_documents",
+  "provides": {
+    "company_name": "recipient.name",
+    "ein": "recipient.ein",
+    "ssn": "recipient.ssn",
+    "street_address": "recipient.address.street",
+    "city": "recipient.address.city",
+    "state": "recipient.address.state",
+    "zip": "recipient.address.zip",
+    "nonemployee_compensation": "amounts.nonemployee_compensation",
+    "tax_year": "tax_year"
+  }
+}

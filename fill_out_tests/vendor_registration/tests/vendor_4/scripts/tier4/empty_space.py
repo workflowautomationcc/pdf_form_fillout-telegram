@@ -79,33 +79,31 @@ def run(page="page_1"):
             })
 
         # ── BOTTOM SPACE ─────────────────────────────────────────────
+        # Left/right bounds: use phrase left and right space boundary
+        b_left  = p_left
+        b_right = best_right  # same boundary as right space for this phrase
+
         # Start from margin as outer boundary
         best_bottom = margins["bottom"]
 
-        # Closest phrase below
+        # Closest phrase below that horizontally overlaps with bottom space bounds
         for q in phrases:
-            if q["top"] > p_bottom and q["top"] < best_bottom:
-                best_bottom = q["top"]
+            if q["top"] <= p_bottom or q["top"] >= best_bottom:
+                continue
+            q_right = q["left"] + q["width"]
+            if q_right <= b_left or q["left"] >= b_right:
+                continue  # outside horizontal bounds
+            best_bottom = q["top"]
 
-        # Closest horizontal line below
+        # Closest horizontal line below that horizontally overlaps
         for l in h_lines:
             ly = l["y_norm"]
-            if p_bottom < ly < best_bottom:
-                best_bottom = ly
-
-        # Left/right bounds: start from margins, trim by vertical lines
-        b_left  = margins["left"]
-        b_right = margins["right"]
-        for l in v_lines:
-            lx       = l["x_norm"]
-            l_top    = l["y_norm"]
-            l_bottom = l_top + l["h_norm"]
-            if l_bottom <= p_bottom or l_top >= best_bottom:
+            if ly <= p_bottom or ly >= best_bottom:
                 continue
-            if lx < p_left and lx > b_left:
-                b_left = lx
-            elif lx > p_right and lx < b_right:
-                b_right = lx
+            lx_right = l["x_norm"] + l["w_norm"]
+            if lx_right <= b_left or l["x_norm"] >= b_right:
+                continue
+            best_bottom = ly
 
         b_height = best_bottom - p_bottom
         b_width  = b_right - b_left

@@ -1,0 +1,19 @@
+{
+  "document_type": "Bank Letter",
+  "group": "04_banking_payments",
+  "provides": {
+    "company_name": "account.name",
+    "account_name": "account.name",
+    "account_number": "account.account_number",
+    "account_currency": "account.currency",
+    "bank_name": "bank.name",
+    "bank_id": "bank.routing_number",
+    "branch_name": "bank.branch",
+    "branch_code": "bank.branch_code",
+    "branch_address": "bank.address",
+    "street_address": "company.address.street",
+    "city": "company.address.city",
+    "state": "company.address.state",
+    "zip": "company.address.zip"
+  }
+}

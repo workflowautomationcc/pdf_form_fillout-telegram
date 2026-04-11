@@ -1,0 +1,15 @@
+{
+  "document_type": "NDA",
+  "group": "06_contracts_agreements",
+  "provides": {
+    "company_name": "disclosing_party.name",
+    "street_address": "disclosing_party.address.street",
+    "city": "disclosing_party.address.city",
+    "state": "disclosing_party.address.state",
+    "zip": "disclosing_party.address.zip",
+    "signatory_name": "signature.name",
+    "signatory_title": "signature.title",
+    "signatory_date": "signature.date",
+    "effective_date": "contract.effective_date"
+  }
+}

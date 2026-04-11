@@ -1,0 +1,74 @@
+{
+  "page": "page_1",
+  "section_count": 2,
+  "sections": [
+    {
+      "section_top": 0.486419,
+      "section_bottom": 0.527577,
+      "section_header": "13. Type of Business Mark one only",
+      "section_footer": "14. Nature",
+      "header_phrase": {
+        "text": "13. Type of Business Mark one only",
+        "left": 0.06431372549019608,
+        "top": 0.4864190687361419,
+        "width": 0.21568627450980388,
+        "height": 0.008592017738359214,
+        "height_px": 31.0,
+        "font_group": "main"
+      },
+      "footer_phrase": {
+        "text": "14. Nature",
+        "left": 0.06274509803921569,
+        "top": 0.5324279379157428,
+        "width": 0.0607843137254902,
+        "height": 0.00692904656319282,
+        "height_px": 24.0,
+        "font_group": "main"
+      },
+      "band": {
+        "band_top": 0.50097,
+        "band_bottom": 0.527577,
+        "checkbox_count": 2,
+        "checkboxes": [
+          0.50097,
+          0.503187
+        ]
+      }
+    },
+    {
+      "section_top": 0.532428,
+      "section_bottom": 0.570538,
+      "section_header": "of Business",
+      "section_footer": "15. Year Established1",
+      "header_phrase": {
+        "text": "of Business",
+        "left": 0.12862745098039216,
+        "top": 0.5324279379157428,
+        "width": 0.06784313725490196,
+        "height": 0.006929046563192931,
+        "height_px": 25.0,
+        "font_group": "main"
+      },
+      "footer_phrase": {
+        "text": "15. Year Established1",
+        "left": 0.06352941176470588,
+        "top": 0.5873059866962306,
+        "width": 0.12705882352941178,
+        "height": 0.006929046563192931,
+        "height_px": 25.0,
+        "font_group": "main"
+      },
+      "band": {
+        "band_top": 0.54781,
+        "band_bottom": 0.570538,
+        "checkbox_count": 4,
+        "checkboxes": [
+          0.54781,
+          0.548088,
+          0.548642,
+          0.548642
+        ]
+      }
+    }
+  ]
+}

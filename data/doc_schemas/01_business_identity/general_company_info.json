@@ -1,0 +1,17 @@
+{
+  "document_type": "General Company Information",
+  "group": "01_business_identity",
+  "provides": {
+    "company_name": "company.name",
+    "website": "website",
+    "signatory_name": "contact.name",
+    "signatory_title": "contact.job_title",
+    "email": "contact.email",
+    "tel": "contact.tel",
+    "fax": "contact.fax",
+    "owners_principals": "corporate_structure.owners_principals",
+    "parent_company": "corporate_structure.parent_company",
+    "international_offices": "international_offices",
+    "employees": "employees.full_time"
+  }
+}

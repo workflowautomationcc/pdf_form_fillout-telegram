@@ -1,0 +1,16 @@
+{
+  "document_type": "State Business Registration Certificate",
+  "group": "01_business_identity",
+  "provides": {
+    "company_name": "company.name",
+    "entity_type": "company.entity_type",
+    "registration_number": "registration.number",
+    "registration_state": "registration.state",
+    "registration_date": "registration.date",
+    "expiry_date": "registration.expiry_date",
+    "street_address": "address.street",
+    "city": "address.city",
+    "state": "address.state",
+    "zip": "address.zip"
+  }
+}

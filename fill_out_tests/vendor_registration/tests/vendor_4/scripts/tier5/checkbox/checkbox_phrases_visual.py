@@ -26,6 +26,11 @@ def run(page="page_1"):
     img = Image.open(INPUT_DIR / f"{page}.png").convert("RGB")
     draw = ImageDraw.Draw(img)
 
+    for band in data["bands"]:
+        y0 = round(band["band_top"] * H)
+        y1 = round(band["band_bottom"] * H)
+        draw.rectangle([0, y0, W - 1, y1], outline=(0, 0, 220), width=3)
+
     for item in data["items"]:
         cb = item["checkbox"]
         draw.rectangle(

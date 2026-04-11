@@ -1,0 +1,12 @@
+{
+  "document_type": "Professional Certification",
+  "group": "07_employee_worker",
+  "provides": {
+    "person_name": "holder.name",
+    "certification_name": "certification.name",
+    "certification_number": "certification.number",
+    "certification_issuer": "certification.issuer",
+    "certification_date": "certification.issue_date",
+    "certification_expiry": "certification.expiry_date"
+  }
+}

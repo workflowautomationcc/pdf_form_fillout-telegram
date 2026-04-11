@@ -1,0 +1,14 @@
+{
+  "document_type": "US Passport",
+  "group": "12_personal",
+  "provides": {
+    "person_name": "holder.name",
+    "person_first_name": "holder.first_name",
+    "person_last_name": "holder.last_name",
+    "person_dob": "holder.date_of_birth",
+    "person_nationality": "holder.nationality",
+    "passport_number": "passport.number",
+    "passport_expiry": "passport.expiry_date",
+    "passport_country": "passport.country"
+  }
+}

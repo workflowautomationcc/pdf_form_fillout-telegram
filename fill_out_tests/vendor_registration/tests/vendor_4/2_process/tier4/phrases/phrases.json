@@ -4,7 +4,7 @@
     "w": 2550,
     "h": 3608
   },
-  "phrase_count": 63,
+  "phrase_count": 49,
   "phrases": [
     {
       "text": "GOALPrime Organization Nigeria GPON",
@@ -61,20 +61,11 @@
       "font_group": "main"
     },
     {
-      "text": "2.",
+      "text": "2. Street Address",
       "left": 0.06352941176470588,
       "top": 0.20454545454545456,
-      "width": 0.009411764705882356,
-      "height": 0.006651884700665189,
-      "height_px": 24.0,
-      "font_group": "main"
-    },
-    {
-      "text": "Street Address",
-      "left": 0.07882352941176471,
-      "top": 0.20482261640798227,
-      "width": 0.08705882352941177,
-      "height": 0.006651884700665189,
+      "width": 0.1023529411764706,
+      "height": 0.006929046563192903,
       "height_px": 24.0,
       "font_group": "main"
     },
@@ -115,21 +106,12 @@
       "font_group": "main"
     },
     {
-      "text": "4. Tel",
+      "text": "4. Tel 5. Fax",
       "left": 0.06313725490196079,
       "top": 0.2813192904656319,
-      "width": 0.03215686274509803,
+      "width": 0.4882352941176471,
       "height": 0.006651884700665189,
       "height_px": 24.0,
-      "font_group": "main"
-    },
-    {
-      "text": "5. Fax",
-      "left": 0.515686274509804,
-      "top": 0.28159645232815966,
-      "width": 0.035686274509803884,
-      "height": 0.0060975609756097615,
-      "height_px": 22.0,
       "font_group": "main"
     },
     {
@@ -178,19 +160,10 @@
       "font_group": "main"
     },
     {
-      "text": "11. Names of owner s and principals",
+      "text": "11. Names of owner s and principals Subsidiaries Affiliates CEO Managing Director Managing Member and those with controlling interests if",
       "left": 0.06352941176470588,
-      "top": 0.40022172949002216,
-      "width": 0.22156862745098038,
-      "height": 0.006929046563192931,
-      "height_px": 25.0,
-      "font_group": "main"
-    },
-    {
-      "text": "Subsidiaries Affiliates CEO Managing Director Managing Member and those with controlling interests if",
-      "left": 0.30196078431372547,
       "top": 0.3999445676274945,
-      "width": 0.6384313725490196,
+      "width": 0.8768627450980393,
       "height": 0.008592017738359159,
       "height_px": 26.0,
       "font_group": "main"
@@ -250,19 +223,10 @@
       "font_group": "main"
     },
     {
-      "text": "14. Nature",
+      "text": "14. Nature of Business",
       "left": 0.06274509803921569,
       "top": 0.5324279379157428,
-      "width": 0.0607843137254902,
-      "height": 0.00692904656319282,
-      "height_px": 24.0,
-      "font_group": "main"
-    },
-    {
-      "text": "of Business",
-      "left": 0.12862745098039216,
-      "top": 0.5324279379157428,
-      "width": 0.06784313725490196,
+      "width": 0.13372549019607843,
       "height": 0.006929046563192931,
       "height_px": 25.0,
       "font_group": "main"
@@ -349,30 +313,12 @@
       "font_group": "main"
     },
     {
-      "text": "Section 2 Banking Information",
+      "text": "Section 2 Banking Information OPTIONAL to be provided only if payment from GPON is expected",
       "left": 0.06235294117647059,
       "top": 0.6746119733924612,
-      "width": 0.24588235294117647,
+      "width": 0.7529411764705881,
       "height": 0.00859201773835927,
       "height_px": 30.0,
-      "font_group": "main"
-    },
-    {
-      "text": "OPTIONAL",
-      "left": 0.32862745098039214,
-      "top": 0.6751662971175166,
-      "width": 0.076078431372549,
-      "height": 0.0077605321507761005,
-      "height_px": 28.0,
-      "font_group": "main"
-    },
-    {
-      "text": "to be provided only if payment from GPON is expected",
-      "left": 0.4235294117647059,
-      "top": 0.6751662971175166,
-      "width": 0.39176470588235285,
-      "height": 0.008037694013303787,
-      "height_px": 29.0,
       "font_group": "main"
     },
     {
@@ -385,109 +331,55 @@
       "font_group": "main"
     },
     {
-      "text": "20",
+      "text": "20 Branch Name and Branch Code if any",
       "left": 0.5466666666666666,
-      "top": 0.7114745011086474,
-      "width": 0.013725490196078383,
-      "height": 0.0060975609756097615,
-      "height_px": 22.0,
-      "font_group": "main"
-    },
-    {
-      "text": "Branch Name and Branch Code if any",
-      "left": 0.6078431372549019,
       "top": 0.7111973392461197,
-      "width": 0.22862745098039217,
+      "width": 0.28980392156862744,
       "height": 0.008037694013303787,
       "height_px": 25.0,
       "font_group": "main"
     },
     {
-      "text": "22",
+      "text": "22 Tel number",
       "left": 0.5466666666666666,
       "top": 0.733370288248337,
-      "width": 0.013725490196078383,
-      "height": 0.006651884700665134,
+      "width": 0.13137254901960782,
+      "height": 0.00692904656319282,
       "height_px": 24.0,
       "font_group": "main"
     },
     {
-      "text": "21.",
+      "text": "21. Branch Address",
       "left": 0.09333333333333334,
       "top": 0.7336474501108647,
-      "width": 0.016470588235294112,
-      "height": 0.006374722838137448,
-      "height_px": 23.0,
-      "font_group": "main"
-    },
-    {
-      "text": "Branch Address",
-      "left": 0.12392156862745098,
-      "top": 0.7336474501108647,
-      "width": 0.09372549019607844,
+      "width": 0.12431372549019608,
       "height": 0.006374722838137559,
       "height_px": 23.0,
       "font_group": "main"
     },
     {
-      "text": "Tel number",
-      "left": 0.6070588235294118,
-      "top": 0.7336474501108647,
-      "width": 0.07098039215686269,
-      "height": 0.006651884700665134,
-      "height_px": 24.0,
-      "font_group": "main"
-    },
-    {
-      "text": "23",
+      "text": "23 Fax number",
       "left": 0.5466666666666666,
       "top": 0.7549889135254989,
-      "width": 0.013725490196078383,
+      "width": 0.13137254901960782,
       "height": 0.006651884700665134,
       "height_px": 24.0,
       "font_group": "main"
     },
     {
-      "text": "Fax number",
-      "left": 0.6078431372549019,
-      "top": 0.7552660753880266,
-      "width": 0.07019607843137254,
-      "height": 0.006374722838137448,
-      "height_px": 23.0,
-      "font_group": "main"
-    },
-    {
-      "text": "24.",
+      "text": "24. Bank Account Number",
       "left": 0.09333333333333334,
       "top": 0.7879711751662971,
-      "width": 0.016470588235294112,
-      "height": 0.006651884700665134,
-      "height_px": 24.0,
-      "font_group": "main"
-    },
-    {
-      "text": "Bank Account Number",
-      "left": 0.12392156862745098,
-      "top": 0.7879711751662971,
-      "width": 0.13294117647058828,
+      "width": 0.16352941176470592,
       "height": 0.006929046563192931,
       "height_px": 25.0,
       "font_group": "main"
     },
     {
-      "text": "25",
+      "text": "25 Account Name\u00b2",
       "left": 0.5466666666666666,
-      "top": 0.7882483370288248,
-      "width": 0.013333333333333308,
-      "height": 0.006374722838137448,
-      "height_px": 23.0,
-      "font_group": "main"
-    },
-    {
-      "text": "Account Name\u00b2",
-      "left": 0.6070588235294118,
       "top": 0.7879711751662971,
-      "width": 0.09215686274509804,
+      "width": 0.15254901960784317,
       "height": 0.006929046563192931,
       "height_px": 24.0,
       "font_group": "main"
@@ -502,40 +394,22 @@
       "font_group": "main"
     },
     {
-      "text": "1",
+      "text": "1 3 years of operation is a minimum",
       "left": 0.06274509803921569,
       "top": 0.8919068736141907,
-      "width": 0.0023529411764705854,
-      "height": 0.00471175166297122,
-      "height_px": 17.0,
-      "font_group": "main"
-    },
-    {
-      "text": "3 years of operation is a minimum",
-      "left": 0.07176470588235294,
-      "top": 0.8957871396895787,
-      "width": 0.14980392156862743,
-      "height": 0.005266075388026703,
+      "width": 0.1588235294117647,
+      "height": 0.009146341463414642,
       "height_px": 19.0,
       "font_group": "main"
     },
     {
-      "text": "2",
+      "text": "2 The Account name is the Name that the Bank uses for the Company It should be the same as the Company Name as stated in section 1 above",
       "left": 0.06196078431372549,
       "top": 0.9060421286031042,
-      "width": 0.003921568627450987,
-      "height": 0.0044345898004434225,
-      "height_px": 16.0,
-      "font_group": "other"
-    },
-    {
-      "text": "The Account name is the Name that the Bank uses for the Company It should be the same as the Company Name as stated in section 1 above",
-      "left": 0.07019607843137254,
-      "top": 0.9099223946784922,
-      "width": 0.6168627450980392,
-      "height": 0.004988913525498906,
+      "width": 0.6250980392156862,
+      "height": 0.008869179600886956,
       "height_px": 18.0,
-      "font_group": "main"
+      "font_group": "other"
     },
     {
       "text": "Plot 140 Ambassador Yusufari street off NUJ house new GRA Bama road Maiduguri Borno State",

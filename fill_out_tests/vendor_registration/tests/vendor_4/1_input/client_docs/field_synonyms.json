@@ -1,0 +1,140 @@
+{
+  "_description": "Maps canonical field keys to synonyms found in forms. Used to match form field labels to client doc values.",
+
+  "company_name": {
+    "source": "certificate_of_formation.company.name",
+    "synonyms": ["company name", "company name full legal name", "full legal name", "legal name", "vendor name", "business name", "organization name", "organisation name", "firm name"]
+  },
+  "street_address": {
+    "source": "certificate_of_formation.address.street",
+    "synonyms": ["street address", "street", "address", "mailing address", "physical address", "registered address", "office address"]
+  },
+  "po_box": {
+    "source": null,
+    "value": "N/A",
+    "synonyms": ["p.o. box", "po box", "po. box", "post office box", "p.o box", "mailing address"]
+  },
+  "city": {
+    "source": "certificate_of_formation.address.city",
+    "synonyms": ["city", "town", "municipality", "city/town"]
+  },
+  "state": {
+    "source": "certificate_of_formation.address.state",
+    "synonyms": ["state", "province", "region", "state/province"]
+  },
+  "country": {
+    "source": "certificate_of_formation.address.country",
+    "synonyms": ["country", "nation", "country of registration", "country of incorporation"]
+  },
+  "postal_code": {
+    "source": "certificate_of_formation.address.zip",
+    "synonyms": ["postal code", "zip", "zip code", "postcode", "post code", "p/code"]
+  },
+  "tel": {
+    "source": "general.contact.tel",
+    "value": "+1 302 555 0101",
+    "synonyms": ["tel", "telephone", "phone", "phone number", "tel.", "telephone number", "contact number", "mobile", "cell"]
+  },
+  "fax": {
+    "source": "general.contact.fax",
+    "value": "+1 302 555 0102",
+    "synonyms": ["fax", "fax number", "facsimile", "fax no", "fax no."]
+  },
+  "email": {
+    "source": "general.contact.email",
+    "synonyms": ["email", "e-mail", "email address", "e-mail address", "electronic mail"]
+  },
+  "website": {
+    "source": "general.website",
+    "synonyms": ["website", "web site", "url", "web address", "company website", "homepage"]
+  },
+  "contact_name": {
+    "source": "general.contact.name",
+    "synonyms": ["contact name", "contact person", "contact", "representative", "name and job title", "contact name and job title"]
+  },
+  "job_title": {
+    "source": "general.contact.job_title",
+    "synonyms": ["job title", "title", "position", "designation", "role"]
+  },
+  "parent_company": {
+    "source": "general.corporate_structure.parent_company",
+    "synonyms": ["parent company", "parent company full legal name", "holding company", "parent organization", "parent organisation"]
+  },
+  "owners_principals": {
+    "source": "general.corporate_structure.owners_principals",
+    "synonyms": ["names of owners", "owners and principals", "principals", "subsidiaries", "affiliates", "ceo", "managing director", "controlling interests"]
+  },
+  "international_offices": {
+    "source": "general.international_offices",
+    "value": "N/A",
+    "synonyms": ["international offices", "international representation", "offices", "representation", "countries where the company has local offices"]
+  },
+  "employees": {
+    "source": "general.employees.full_time",
+    "synonyms": ["number of employees", "full time employees", "no. of employees", "staff count", "headcount", "number of full time employees"]
+  },
+  "type_of_business": {
+    "source": "certificate_of_formation.company.type_of_business",
+    "synonyms": ["type of business", "business type", "entity type", "company type", "legal entity"]
+  },
+  "nature_of_business": {
+    "source": "certificate_of_formation.company.nature_of_business",
+    "synonyms": ["nature of business", "business activity", "business description", "line of business", "industry", "sector"]
+  },
+  "year_established": {
+    "source": "certificate_of_formation.company.year_established",
+    "synonyms": ["year established", "year founded", "founded", "incorporated", "date of incorporation", "year of incorporation", "established"]
+  },
+  "licence_number": {
+    "source": "business_license.license.number",
+    "synonyms": ["licence no", "license no", "licence number", "license number", "licence no.", "license no.", "registration number", "licence no./state where registered"]
+  },
+  "licence_state": {
+    "source": "business_license.license.state",
+    "synonyms": ["state where registered", "state of registration", "state of incorporation", "registered state"]
+  },
+  "licence_expiry": {
+    "source": "business_license.license.expiry_date",
+    "synonyms": ["validity date", "expiry date", "expiry", "valid until", "valid to", "license expiry"]
+  },
+  "vat_number": {
+    "source": "irs_ein_assignment_letter.tax.ein",
+    "synonyms": ["vat no", "vat number", "vat no.", "tax id", "taxl.d", "tax identification", "vat/tax id", "vat no./taxl.d"]
+  },
+  "ein": {
+    "source": "irs_ein_assignment_letter.tax.ein",
+    "synonyms": ["ein", "employer identification number", "federal tax id", "tax id number"]
+  },
+  "bank_name": {
+    "source": "voided_check.bank.name",
+    "synonyms": ["bank name", "bank", "financial institution", "bank name and bank id", "bank name and bank id if any"]
+  },
+  "bank_id": {
+    "source": "voided_check.bank.routing_number",
+    "synonyms": ["bank id", "routing number", "bank code", "sort code", "swift code", "bic"]
+  },
+  "branch_name": {
+    "source": "voided_check.bank.branch",
+    "synonyms": ["branch name", "branch", "bank branch", "branch name and branch code", "branch name and branch code if any"]
+  },
+  "branch_code": {
+    "source": "voided_check.bank.branch_code",
+    "synonyms": ["branch code", "branch no", "branch number"]
+  },
+  "branch_address": {
+    "source": "voided_check.bank.address",
+    "synonyms": ["branch address", "bank address", "branch street address"]
+  },
+  "account_number": {
+    "source": "voided_check.account.account_number",
+    "synonyms": ["account number", "bank account number", "account no", "account no.", "acc number", "acct number"]
+  },
+  "account_name": {
+    "source": "voided_check.account.account_name",
+    "synonyms": ["account name", "account holder", "account holder name", "name on account"]
+  },
+  "account_currency": {
+    "source": "voided_check.account.currency",
+    "synonyms": ["account currency", "currency", "account currency3", "bank currency"]
+  }
+}

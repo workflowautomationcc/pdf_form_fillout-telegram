@@ -41,7 +41,7 @@ def run(page="page_1"):
         x1 = round((s["left"] + s["width"]) * W)
         y1 = round((s["top"] + s["height"]) * H)
         if x1 > x0 and y1 > y0:
-            draw.rectangle([x0, y0, x1, y1], fill=COLOR_BOTTOM)
+            draw.rectangle([x0, y0, x1, y1], fill=COLOR_BOTTOM, outline=(0, 0, 0), width=2)
 
     for s in right["spaces"]:
         x0 = round(s["left"] * W)
@@ -49,7 +49,7 @@ def run(page="page_1"):
         x1 = round((s["left"] + s["width"]) * W)
         y1 = round((s["top"] + s["height"]) * H)
         if x1 > x0 and y1 > y0:
-            draw.rectangle([x0, y0, x1, y1], fill=COLOR_RIGHT)
+            draw.rectangle([x0, y0, x1, y1], fill=COLOR_RIGHT, outline=(0, 0, 0), width=2)
 
     result = Image.alpha_composite(img, overlay).convert("RGB")
     out_path = OUT_DIR / "empty_space_visual.png"

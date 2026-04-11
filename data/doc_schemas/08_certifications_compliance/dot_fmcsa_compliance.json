@@ -1,0 +1,15 @@
+{
+  "document_type": "DOT/FMCSA Compliance",
+  "group": "08_certifications_compliance",
+  "provides": {
+    "company_name": "carrier.name",
+    "dot_number": "carrier.dot_number",
+    "mc_number": "carrier.mc_number",
+    "street_address": "carrier.address.street",
+    "city": "carrier.address.city",
+    "state": "carrier.address.state",
+    "zip": "carrier.address.zip",
+    "tel": "carrier.phone",
+    "email": "carrier.email"
+  }
+}

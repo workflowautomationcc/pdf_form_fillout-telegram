@@ -1,0 +1,16 @@
+{
+  "document_type": "DBA Filing",
+  "group": "01_business_identity",
+  "provides": {
+    "company_name": "legal_name",
+    "dba_name": "dba_name",
+    "registration_number": "filing.number",
+    "registration_date": "filing.date",
+    "registration_state": "filing.state",
+    "street_address": "address.street",
+    "city": "address.city",
+    "state": "address.state",
+    "zip": "address.zip",
+    "owner_name": "owner.name"
+  }
+}

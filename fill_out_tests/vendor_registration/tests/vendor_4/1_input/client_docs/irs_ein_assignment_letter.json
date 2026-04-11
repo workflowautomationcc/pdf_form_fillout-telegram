@@ -1,0 +1,23 @@
+{
+  "document_type": "IRS EIN Assignment Letter (Form CP 575)",
+  "company": {
+    "name": "Brightline Trading & Supplies Ltd"
+  },
+  "tax": {
+    "ein": "47-3829104",
+    "date_issued": "2018-04-02",
+    "tax_form": "1120",
+    "tax_classification": "Corporation"
+  },
+  "address": {
+    "street": "47 Commerce Drive",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "country": "USA",
+    "zip": "19801"
+  },
+  "issued_by": {
+    "authority": "Internal Revenue Service (IRS)",
+    "department": "Department of the Treasury"
+  }
+}

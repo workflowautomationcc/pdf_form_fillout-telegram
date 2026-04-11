@@ -1,6 +1,28 @@
 {
   "page": "page_1",
   "count": 6,
+  "bands": [
+    {
+      "band_top": 0.50097,
+      "band_bottom": 0.527577,
+      "checkbox_count": 2,
+      "checkboxes": [
+        0.50097,
+        0.503187
+      ]
+    },
+    {
+      "band_top": 0.54781,
+      "band_bottom": 0.570538,
+      "checkbox_count": 4,
+      "checkboxes": [
+        0.54781,
+        0.548088,
+        0.548642,
+        0.548642
+      ]
+    }
+  ],
   "items": [
     {
       "checkbox": {
@@ -20,7 +42,9 @@
         "height_px": 24.0,
         "font_group": "main"
       },
-      "vert_dist": 0.022941
+      "vert_dist": 0.022941,
+      "is_other": false,
+      "other_write_zone": null
     },
     {
       "checkbox": {
@@ -40,7 +64,9 @@
         "height_px": 23.0,
         "font_group": "main"
       },
-      "vert_dist": 0.008039
+      "vert_dist": 0.008039,
+      "is_other": false,
+      "other_write_zone": null
     },
     {
       "checkbox": {
@@ -60,7 +86,9 @@
         "height_px": 24.0,
         "font_group": "main"
       },
-      "vert_dist": 0.014314
+      "vert_dist": 0.014314,
+      "is_other": false,
+      "other_write_zone": null
     },
     {
       "checkbox": {
@@ -80,7 +108,9 @@
         "height_px": 23.0,
         "font_group": "main"
       },
-      "vert_dist": 0.010392
+      "vert_dist": 0.010392,
+      "is_other": false,
+      "other_write_zone": null
     },
     {
       "checkbox": {
@@ -100,7 +130,9 @@
         "height_px": 19.0,
         "font_group": "main"
       },
-      "vert_dist": 0.013922
+      "vert_dist": 0.013922,
+      "is_other": false,
+      "other_write_zone": null
     },
     {
       "checkbox": {
@@ -120,7 +152,9 @@
         "height_px": 25.0,
         "font_group": "main"
       },
-      "vert_dist": 0.00451
+      "vert_dist": 0.00451,
+      "is_other": false,
+      "other_write_zone": null
     }
   ]
 }

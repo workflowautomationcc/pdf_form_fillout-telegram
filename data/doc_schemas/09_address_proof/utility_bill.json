@@ -1,0 +1,13 @@
+{
+  "document_type": "Utility Bill",
+  "group": "09_address_proof",
+  "provides": {
+    "company_name": "account_holder.name",
+    "street_address": "service_address.street",
+    "city": "service_address.city",
+    "state": "service_address.state",
+    "zip": "service_address.zip",
+    "account_number": "account.number",
+    "bill_date": "bill.date"
+  }
+}

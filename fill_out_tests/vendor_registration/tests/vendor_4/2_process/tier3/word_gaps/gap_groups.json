@@ -2,17 +2,17 @@
   "page": "page_1",
   "friendship_thresholds_px": {
     "tiny": 50,
-    "main": 60,
+    "main": 100,
     "large": 80,
     "giant": 110,
     "other": 0
   },
   "summary": {
     "tiny-friend": 23,
-    "main-friend": 166,
+    "main-friend": 169,
     "large-friend": 2,
     "giant-friend": 3,
-    "separate": 21
+    "separate": 18
   },
   "groups": {
     "tiny-friend": [
@@ -2285,6 +2285,42 @@
         "top": 0.34617516629711753,
         "bottom": 0.352549889135255,
         "y": 0.34617516629711753
+      },
+      {
+        "left_word": "principals",
+        "right_word": "Subsidiaries",
+        "gap": 0.016863,
+        "gap_px": 60.8,
+        "font_group": "main",
+        "left_x_end": 0.285098,
+        "right_x_start": 0.301961,
+        "top": 0.40022172949002216,
+        "bottom": 0.4071507760532151,
+        "y": 0.40188470066518844
+      },
+      {
+        "left_word": "OPTIONAL",
+        "right_word": "to",
+        "gap": 0.018823,
+        "gap_px": 67.9,
+        "font_group": "main",
+        "left_x_end": 0.404706,
+        "right_x_start": 0.423529,
+        "top": 0.6751662971175166,
+        "bottom": 0.6832039911308204,
+        "y": 0.6751662971175166
+      },
+      {
+        "left_word": "Information",
+        "right_word": "OPTIONAL",
+        "gap": 0.020392,
+        "gap_px": 73.6,
+        "font_group": "main",
+        "left_x_end": 0.308235,
+        "right_x_start": 0.328627,
+        "top": 0.6751662971175166,
+        "bottom": 0.6829268292682927,
+        "y": 0.6765521064301552
       }
     ],
     "large-friend": [
@@ -2352,42 +2388,6 @@
       }
     ],
     "separate": [
-      {
-        "left_word": "principals",
-        "right_word": "Subsidiaries",
-        "gap": 0.016863,
-        "gap_px": 60.8,
-        "font_group": "main",
-        "left_x_end": 0.285098,
-        "right_x_start": 0.301961,
-        "top": 0.40022172949002216,
-        "bottom": 0.4071507760532151,
-        "y": 0.40188470066518844
-      },
-      {
-        "left_word": "OPTIONAL",
-        "right_word": "to",
-        "gap": 0.018823,
-        "gap_px": 67.9,
-        "font_group": "main",
-        "left_x_end": 0.404706,
-        "right_x_start": 0.423529,
-        "top": 0.6751662971175166,
-        "bottom": 0.6832039911308204,
-        "y": 0.6751662971175166
-      },
-      {
-        "left_word": "Information",
-        "right_word": "OPTIONAL",
-        "gap": 0.020392,
-        "gap_px": 73.6,
-        "font_group": "main",
-        "left_x_end": 0.308235,
-        "right_x_start": 0.328627,
-        "top": 0.6751662971175166,
-        "bottom": 0.6829268292682927,
-        "y": 0.6765521064301552
-      },
       {
         "left_word": "22",
         "right_word": "Tel",

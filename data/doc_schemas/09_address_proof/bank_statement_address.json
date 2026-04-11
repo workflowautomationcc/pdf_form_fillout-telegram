@@ -1,0 +1,13 @@
+{
+  "document_type": "Bank Statement (Address Proof)",
+  "group": "09_address_proof",
+  "provides": {
+    "company_name": "account.name",
+    "street_address": "account.address.street",
+    "city": "account.address.city",
+    "state": "account.address.state",
+    "zip": "account.address.zip",
+    "bank_name": "bank.name",
+    "statement_date": "statement.date"
+  }
+}

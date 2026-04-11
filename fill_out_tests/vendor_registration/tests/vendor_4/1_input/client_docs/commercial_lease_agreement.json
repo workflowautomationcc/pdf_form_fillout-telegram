@@ -1,0 +1,29 @@
+{
+  "document_type": "Commercial Lease Agreement",
+  "company": {
+    "name": "Brightline Trading & Supplies Ltd"
+  },
+  "premises": {
+    "street": "47 Commerce Drive",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "country": "USA",
+    "zip": "19801"
+  },
+  "lease": {
+    "start_date": "2018-04-01",
+    "end_date": "2026-03-31",
+    "monthly_rent": "3200.00",
+    "currency": "USD"
+  },
+  "landlord": {
+    "name": "Delaware Commercial Properties LLC",
+    "contact": "info@delawarecp.com"
+  },
+  "tenant": {
+    "name": "Brightline Trading & Supplies Ltd",
+    "signatory": "Chukwuemeka Obi",
+    "title": "Managing Director",
+    "signature_date": "2018-03-20"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "document_type": "OSHA Safety Certificate",
+  "group": "08_certifications_compliance",
+  "provides": {
+    "company_name": "company.name",
+    "person_name": "holder.name",
+    "certification_name": "certification.name",
+    "certification_number": "certification.number",
+    "certification_date": "certification.issue_date",
+    "certification_expiry": "certification.expiry_date",
+    "certification_issuer": "certification.issuer"
+  }
+}

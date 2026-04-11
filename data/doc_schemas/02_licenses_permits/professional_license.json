@@ -1,0 +1,13 @@
+{
+  "document_type": "Professional License",
+  "group": "02_licenses_permits",
+  "provides": {
+    "company_name": "company.name",
+    "licence_number": "license.number",
+    "licence_state": "license.state",
+    "licence_expiry": "license.expiry_date",
+    "licence_class": "license.class",
+    "profession": "license.profession",
+    "signatory_name": "licensee.name"
+  }
+}

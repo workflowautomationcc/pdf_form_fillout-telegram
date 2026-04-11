@@ -1,0 +1,34 @@
+{
+  "document_type": "Certificate of Formation",
+  "state_of_formation": "Delaware",
+  "company": {
+    "name": "Brightline Trading & Supplies Ltd",
+    "entity_type": "Corporation",
+    "type_of_business": "Corporate Limited",
+    "nature_of_business": "Wholesale distribution of industrial equipment and supplies",
+    "year_established": 2018,
+    "date_of_incorporation": "2018-03-14",
+    "file_number": "DE-7734892"
+  },
+  "registered_agent": {
+    "name": "Northwest Registered Agent LLC",
+    "address": "8 The Green, Suite A, Dover, DE 19901"
+  },
+  "address": {
+    "street": "47 Commerce Drive",
+    "city": "Wilmington",
+    "state": "Delaware",
+    "country": "USA",
+    "zip": "19801"
+  },
+  "authorized_signatory": {
+    "name": "Chukwuemeka Obi",
+    "title": "Managing Director",
+    "signature_date": "2018-03-14"
+  },
+  "issued_by": {
+    "authority": "Delaware Division of Corporations",
+    "officer": "Jeffrey W. Bullock, Secretary of State",
+    "stamp": "Delaware Secretary of State"
+  }
+}

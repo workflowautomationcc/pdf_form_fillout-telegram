@@ -1,0 +1,16 @@
+{
+  "document_type": "Service Contract",
+  "group": "06_contracts_agreements",
+  "provides": {
+    "company_name": "provider.name",
+    "street_address": "provider.address.street",
+    "city": "provider.address.city",
+    "state": "provider.address.state",
+    "zip": "provider.address.zip",
+    "signatory_name": "signature.name",
+    "signatory_title": "signature.title",
+    "signatory_date": "signature.date",
+    "effective_date": "contract.effective_date",
+    "expiry_date": "contract.expiry_date"
+  }
+}

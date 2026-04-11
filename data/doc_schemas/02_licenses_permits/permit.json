@@ -1,0 +1,15 @@
+{
+  "document_type": "Permit",
+  "group": "02_licenses_permits",
+  "provides": {
+    "company_name": "company.name",
+    "permit_number": "permit.number",
+    "permit_type": "permit.type",
+    "permit_state": "permit.state",
+    "permit_expiry": "permit.expiry_date",
+    "street_address": "address.street",
+    "city": "address.city",
+    "state": "address.state",
+    "zip": "address.zip"
+  }
+}

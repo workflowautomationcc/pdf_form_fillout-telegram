@@ -1,0 +1,15 @@
+{
+  "document_type": "IRS EIN Assignment Letter (Form CP 575)",
+  "group": "01_business_identity",
+  "provides": {
+    "company_name": "company.name",
+    "ein": "tax.ein",
+    "vat_number": "tax.ein",
+    "tax_classification": "tax.tax_classification",
+    "street_address": "address.street",
+    "city": "address.city",
+    "state": "address.state",
+    "country": "address.country",
+    "zip": "address.zip"
+  }
+}
